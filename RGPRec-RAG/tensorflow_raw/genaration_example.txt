@@ -1,0 +1,45 @@
+46990, Deep Learning, GPU Acceleration, Python, CNN Training, Error, GTX 1650 8 GB
+46989, Android, Deployment, TensorFlow, Custom TensorFlow Lite .aar, Failed, Docker, TensorFlow Lite
+46988, Area: Machine Learning, Position: Training, Language: Python, Topic: SSD MobileNet V2, Status: Performance Issue, System: GPU vs CPU, , , , , , 
+46987, TensorFlow/Keras, Build/Install, Python, Bug Fix, Open, Docker
+46984, Embedded Systems, Developer, C/C++, STM32F746NG, LCD Display, Microcontroller, Issue, STM32F746NG, MBED, TensorFlow Lite for Microcontrollers
+46983, TensorFlow, User, English, LSTM TFLite Model, Issue, TensorFlow Lite
+46982, TensorFlow, Dataset, Python, Shuffling, Bug, TFDS
+46979, TensorFlow, User, Python, API Design, Complaint, TensorFlow
+46977, Area: Programming, Position: Debugging, Language: C++, Topic: RefCounted::Unref(), Status: Issue, System: TensorFlow, , , , , ,
+46970, Machine Learning, Developer, Python, Object Detection, Error, Windows 10
+46961, TensorFlow, Function Mapping, Python, Performance Optimization, Open, tf.data, tf.GradientTape
+46952, Tensorflow, GPU, C#, Thread Blocking, Bug Reported,
+46950, TensorFlow, GPU, Python, Data Transfer, Bug, CuPy, DLPack
+46949, Machine Learning, Developer, Python, TensorFlow Lite, BERT, Question, TensorFlow Lite
+46943, Machine Learning, Validation Accuracy Discrepancy, English, Tensorboard Accuracy Issues, Awaiting Response, TensorFlow/Tensorboard
+46941, TensorFlow, Backend, Python, Bug, Awaiting Response, Keras
+46939, TensorFlow, Bug, Python, Crash, Awaiting Response, Colab
+46937, Initialization, Global pointer variable, C/C++ (implied by context), Renode, Xtensa simulator, Linux, Bug, Workaround available, Renode, Linux, Xtensa simulator
+46934, Installation, User, Python, Tensorflow, Resolved, Windows
+46931, Distributed Computing, MultiWorkerMirroredStrategy, Python, TensorFlow Distributed Training, Hanging, Windows, CUDA, cuDNN
+46930, TensorFlow, Subgraph, Python, Model Modification, Awaiting Feature, 
+46929, TensorFlow, Windows, Python, Bug, Open, CPU/GPU
+46928, TensorFlow, Android, Python, LSTM, Awaiting Response, TensorFlow Lite 1.15
+46924, TensorFlow, Developer, Python, TFLite Conversion, Awaiting Response, Colab, Jetson Nano
+46923, Machine Learning, Training, Python, TensorFlow, Loss Function, Issue, TensorFlow 2.4
+46922, ModelOptimizationToolkit, Post-training, TFLite, Quantization, Bug, TF2.3
+46919, TensorFlow, User, Python, Keras, Eager Execution, Question, TensorFlow, Keras
+46918, Machine Learning, GPU Optimization, Python, Memory Management, Awaiting Response, TensorFlow 2.4
+46916, TensorFlow, User, English, Build Error, Unresolved, Windows 10
+46914, TensorFlow, UpSampling2D, Python, Crash, Awaiting, Keras
+46913, TensorFlow, Bug, Python, tf.keras.layers.RepeatVector, Awaiting Response, TF 2.1, TF 2.4, Colab
+46911, TensorFlow, Backend, Python, Crash, Awaiting, Keras
+46910, Area: ModelOptimizationToolkit, Position: comp:ops, Language: TensorFlow, Topic: crash(abort), Status: awaiting, System: TensorFlow 2.4, , , , , , 
+46908, TensorFlow, Bug, Python, Cross-Entropy, Awaiting Response, TF 2.4, Keras
+46902, Build, Compilation, Python, TensorFlow, Awaiting Response, Windows
+46897, TensorFlow, Sparse Operations, Python, Crash, Awaiting Response, TF 2.4, Nightly, Colab
+46890, TensorFlow, API, Python, Crash, Awaiting, Colab
+46889, TensorFlow, tf.keras.backend.arange, Python, Crash (Abort), Awaiting TensorFlower, TF 2.1, Keras
+46888, tf.math, segment_max/min/mean/sun/prod, Python, Crashes, Awaiting, TensorFlow
+46855, Training, Freeze, Python, TensorFlow, Awaiting Response, Keras
+46853, TensorFlow, Developer, Python, Model Loading, Bug, Keras
+46852, iOS, Experimental, English, API, Missing, CocoaPods
+46845, Docker, Build, TensorFlow, Error, Awaiting, CUDA
+46844, Area: MachineLearning, Position: Developer, Language: Python, Topic: Quantization, Status: Fixed, System: TensorFlow, , , , , , 
+46834, TensorFlow, API, Python, Bug, Awaiting, Colab

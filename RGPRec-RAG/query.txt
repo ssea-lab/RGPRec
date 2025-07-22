@@ -1,0 +1,19 @@
+Prompt template:
+Generate six specific attributes for each row.   Each attribute should be represented by a single word, and no empty values are allowed.    The output format should be:
+`<ID, Area, Position, Language, Topic, Status, System>`
+Attribute definitions:
+- Area: The audience category of the project (e.g., 'Education', 'Finance', 'Healthcare')
+- Position: The category of the project (e.g., 'Research', 'Application', 'Platform')
+- Language: The development language used in the project (e.g., 'Python', 'Java', 'C++')
+- Topic: The theme of the project (e.g., 'Blockchain', 'AI', 'Cybersecurity')
+- Status: The current development status of the project (e.g., 'Planning', 'Development', 'Completed')
+- System: The system used in the project (e.g., 'Linux', 'Windows', 'Cloud')
+
+
+Output example:
+1. `<1, Healthcare, Application, Python, AI, Development, Linux>`
+2. `<2, Education, Platform, Java, MachineLearning, Planning, Cloud>`
+3. `<3, Finance, Research, C++, Analytics, Completed, Windows>`
+4. `<4, Healthcare, Application, Python, TensorFlow, Development, Linux>`
+5. `<5, Education, Application, C++, Compiler, Planning, Windows>`
+6. `<6, Finance, Research, Java, Testing, Development, Cloud>`

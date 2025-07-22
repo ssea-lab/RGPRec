@@ -1,0 +1,4973 @@
+a-f	508	SQL-based
+a-plus	524	MySQL
+a247dialer	502	JDBC
+a247dialer	524	MySQL
+a6fw	502	JDBC
+aabsnorm	516	Project is a relational object mapper
+aabsnorm	530	Microsoft SQL Server
+aaphpbb	524	MySQL
+aapp	524	MySQL
+aapp	518	Microsoft Access
+aappt	516	Project is a relational object mapper
+aas	508	SQL-based
+aas	524	MySQL
+aatcalendario	524	MySQL
+aaventures	507	XML-based
+aaventures	508	SQL-based
+aavso-vsr	524	MySQL
+aawa	508	SQL-based
+aawebgui	524	MySQL
+abacuscm	524	MySQL
+abacuses	502	JDBC
+abacuses	521	Flat-file
+abakus	525	PostgreSQL (pgsql)
+abbott	521	Flat-file
+abc-123	521	Flat-file
+abc2php	524	MySQL
+abcdiary	524	MySQL
+abci	521	Flat-file
+abcwebclient	522	Proprietary file format
+abducted-irc	524	MySQL
+abducted-irc	521	Flat-file
+abducted-irc	503	ADOdb
+aben	507	XML-based
+aben	517	Berkeley/Sleepycat/Gdbm (DBM)
+abesoft	530	Microsoft SQL Server
+abettor	524	MySQL
+abfm	524	MySQL
+abills	524	MySQL
+abk	514	Project is a tool for a proprietary database file format
+ablog	525	PostgreSQL (pgsql)
+aboard	524	MySQL
+about-server	524	MySQL
+abrain	522	Proprietary file format
+abrain	528	Firebird/InterBase
+absboat	531	SQLite
+absencesmanager	525	PostgreSQL (pgsql)
+absinth-chat	524	MySQL
+absolut-library	524	MySQL
+abstraction	508	SQL-based
+abtrack	524	MySQL
+abyssstudio	507	XML-based
+acaclick	508	SQL-based
+acadehelp	523	Other file-based DBMS
+academic-board	524	MySQL
+acadex	502	JDBC
+acadmap2pgsql	525	PostgreSQL (pgsql)
+acami	505	PHP Pear::DB
+acami	524	MySQL
+acarsxx	524	MySQL
+acasha	531	SQLite
+acasha	524	MySQL
+acc-attack	524	MySQL
+accelerator-ml	507	XML-based
+access-svn	518	Microsoft Access
+access-svn	530	Microsoft SQL Server
+accessbuild	511	Project is a database management tool
+accidentdb	524	MySQL
+acco	503	ADOdb
+acco	531	SQLite
+account4xoops	524	MySQL
+accountmgm	524	MySQL
+accountsmanager	520	PalmOS PDB
+accs	502	JDBC
+accs	524	MySQL
+acctmgr	504	Perl DBI/DBD
+acctmgr	505	PHP Pear::DB
+accttrsh	517	Berkeley/Sleepycat/Gdbm (DBM)
+accua	531	SQLite
+acd-barguide	524	MySQL
+acd-barguide	502	JDBC
+acdb	510	Project is a database abstraction layer (API)
+acdir	503	ADOdb
+acdk	510	Project is a database abstraction layer (API)
+acdk	501	ODBC
+acdk	502	JDBC
+acechatserver	507	XML-based
+acechatserver	524	MySQL
+aceginet	530	Microsoft SQL Server
+acegisecurity	502	JDBC
+aceoperator	524	MySQL
+aceserver	524	MySQL
+achaeasystem	504	Perl DBI/DBD
+achaeasystem	524	MySQL
+achaeasystem	525	PostgreSQL (pgsql)
+achaeasystem	531	SQLite
+acharacter	521	Flat-file
+acidcult	525	PostgreSQL (pgsql)
+acidforum	524	MySQL
+ackertodo	524	MySQL
+ackertodo	508	SQL-based
+ackpoller	502	JDBC
+ackpoller	525	PostgreSQL (pgsql)
+acl	524	MySQL
+acmas	524	MySQL
+acmcontester	524	MySQL
+acme	516	Project is a relational object mapper
+acme	524	MySQL
+acmedupl	525	PostgreSQL (pgsql)
+acmedupl	502	JDBC
+acms	508	SQL-based
+acmwebsite	508	SQL-based
+acmx	514	Project is a tool for a proprietary database file format
+acosi	524	MySQL
+acountthing	508	SQL-based
+acp-cherry	504	Perl DBI/DBD
+acpportal	524	MySQL
+acpproduccion	524	MySQL
+acptsys	525	PostgreSQL (pgsql)
+acron	524	MySQL
+acs-nh	528	Firebird/InterBase
+acs-nh	530	Microsoft SQL Server
+acs-nh	526	Oracle
+acss	530	Microsoft SQL Server
+act-rbot	524	MySQL
+act-rbot	502	JDBC
+actedit	507	XML-based
+actinictools	521	Flat-file
+actinictools	518	Microsoft Access
+actionmmo	524	MySQL
+actions-ds	525	PostgreSQL (pgsql)
+actions-ds	524	MySQL
+actions-ds	508	SQL-based
+activ	521	Flat-file
+activ-porthole	524	MySQL
+activeagenda	524	MySQL
+activeboard	521	Flat-file
+activegrid	526	Oracle
+activegrid	525	PostgreSQL (pgsql)
+activegrid	531	SQLite
+activegrid	529	Sybase
+activegrid	524	MySQL
+activegrid	530	Microsoft SQL Server
+activegrid	527	IBM DB2
+activegrid	507	XML-based
+activegrid	506	Python Database API
+activegrid	502	JDBC
+activelife	518	Microsoft Access
+activelife	524	MySQL
+activemon	524	MySQL
+activerecords	502	JDBC
+activesql	508	SQL-based
+activewizard	527	IBM DB2
+activewizard	530	Microsoft SQL Server
+activewizard	526	Oracle
+activewizard	533	Other network-based DBMS
+activitytracker	507	XML-based
+activscm	524	MySQL
+activscm	530	Microsoft SQL Server
+actualiza	509	Other API
+actualiza	521	Flat-file
+actualizer	508	SQL-based
+acubbill	502	JDBC
+acusto	524	MySQL
+acusto	530	Microsoft SQL Server
+acy-7	502	JDBC
+ad-gallery	524	MySQL
+ada	505	PHP Pear::DB
+adac	524	MySQL
+adage4	508	SQL-based
+adal	530	Microsoft SQL Server
+adam-soft	502	JDBC
+adamastor	524	MySQL
+adams	524	MySQL
+adamsiptv	504	Perl DBI/DBD
+adamsiptv	507	XML-based
+adamsiptv	524	MySQL
+adaptiveplan	526	Oracle
+adaptiveplan	502	JDBC
+adaptmot	524	MySQL
+adastar	509	Other API
+adaxas	524	MySQL
+adb	521	Flat-file
+adbd	510	Project is a database abstraction layer (API)
+adbd	524	MySQL
+adbd	525	PostgreSQL (pgsql)
+adbd	531	SQLite
+adbnewssender	524	MySQL
+addam	511	Project is a database management tool
+addmaker	509	Other API
+addresspad	505	PHP Pear::DB
+adelf	526	Oracle
+adempiere	502	JDBC
+adequae	505	PHP Pear::DB
+adequae	524	MySQL
+adh	525	PostgreSQL (pgsql)
+adhocrailway	507	XML-based
+adictionary	521	Flat-file
+adiss	524	MySQL
+adk	508	SQL-based
+adk	513	Project is a network-based DBMS (database system)
+adk	525	PostgreSQL (pgsql)
+admidio	524	MySQL
+admindb	505	PHP Pear::DB
+adminia	524	MySQL
+adminibs	524	MySQL
+adminpanel	524	MySQL
+admintool	523	Other file-based DBMS
+adodb-mysql	503	ADOdb
+adodb-mysql	510	Project is a database abstraction layer (API)
+adodb-mysql	524	MySQL
+adodblite	529	Sybase
+adodblite	531	SQLite
+adodblite	525	PostgreSQL (pgsql)
+adodblite	533	Other network-based DBMS
+adodblite	524	MySQL
+adodblite	530	Microsoft SQL Server
+adodblite	510	Project is a database abstraction layer (API)
+adodblite	508	SQL-based
+adodblite	503	ADOdb
+adokul	530	Microsoft SQL Server
+adon	524	MySQL
+adone	530	Microsoft SQL Server
+adone	524	MySQL
+adone	525	PostgreSQL (pgsql)
+adorno	525	PostgreSQL (pgsql)
+adp	524	MySQL
+adplug	522	Proprietary file format
+adpsys	505	PHP Pear::DB
+adpsys	530	Microsoft SQL Server
+adpsys	524	MySQL
+adpsys	526	Oracle
+adqt	508	SQL-based
+adqt	525	PostgreSQL (pgsql)
+adr-support	508	SQL-based
+adressverwalt	524	MySQL
+adria	510	Project is a database abstraction layer (API)
+adscfif1217	523	Other file-based DBMS
+adsense-asp-net	507	XML-based
+adsenseportlet	509	Other API
+adsltimer	507	XML-based
+adsplacementsys	524	MySQL
+adts	524	MySQL
+adulator	502	JDBC
+adultframework	524	MySQL
+adv-sitesys	524	MySQL
+adv-uploads	524	MySQL
+adv-warfare	507	XML-based
+advancedresman	512	Project is a file-based DBMS (database system)
+advm	522	Proprietary file format
+advpy	506	Python Database API
+advseeker	521	Flat-file
+advseeker	524	MySQL
+adwin	524	MySQL
+adxen	506	Python Database API
+adxen	531	SQLite
+adyne	524	MySQL
+adze-db	509	Other API
+adze-db	522	Proprietary file format
+adze-db	512	Project is a file-based DBMS (database system)
+adze-db	514	Project is a tool for a proprietary database file format
+aecp	524	MySQL
+aedificator	524	MySQL
+aedo	524	MySQL
+aeg	502	JDBC
+aeiou	524	MySQL
+aerth	524	MySQL
+aescript	507	XML-based
+aesir	508	SQL-based
+aesir	507	XML-based
+aesir	521	Flat-file
+aesop-embedded	524	MySQL
+afa-scumm	507	XML-based
+afcommerce	524	MySQL
+afet	509	Other API
+affelioproject	504	Perl DBI/DBD
+affiliate	524	MySQL
+affiliatewv	524	MySQL
+affmarket	524	MySQL
+aflog	524	MySQL
+aforms	524	MySQL
+afoto	521	Flat-file
+afs	524	MySQL
+afstcdb	525	PostgreSQL (pgsql)
+afstcdb	530	Microsoft SQL Server
+afstcdb	510	Project is a database abstraction layer (API)
+afterburner	522	Proprietary file format
+ag2map	502	JDBC
+agar	523	Other file-based DBMS
+agder	524	MySQL
+agdersoftcms	524	MySQL
+agdersoftcms	505	PHP Pear::DB
+age-osgi	507	XML-based
+ageless	508	SQL-based
+agencydb	524	MySQL
+agenda-01	522	Proprietary file format
+agenda-livre	525	PostgreSQL (pgsql)
+agendaclientes	523	Other file-based DBMS
+agent	503	ADOdb
+agentemail	524	MySQL
+agenziaviaggi	502	JDBC
+agenziaviaggi	524	MySQL
+agfg	502	JDBC
+agfg	508	SQL-based
+agfg	524	MySQL
+agile-team-tool	502	JDBC
+agileplanner	502	JDBC
+agiletrack	508	SQL-based
+agiletrack	532	HSQL
+agiletrack	524	MySQL
+agilewiki	509	Other API
+agilewiki	523	Other file-based DBMS
+agilewiki	512	Project is a file-based DBMS (database system)
+agilewiki	533	Other network-based DBMS
+agility4j	525	PostgreSQL (pgsql)
+agilpro	502	JDBC
+agilpro	508	SQL-based
+aginetmon	530	Microsoft SQL Server
+agis	524	MySQL
+agnostos	524	MySQL
+agon-cosmos	524	MySQL
+agora	524	MySQL
+agoracart	521	Flat-file
+agorae	525	PostgreSQL (pgsql)
+agot	507	XML-based
+agre	524	MySQL
+agreements	524	MySQL
+agreeyanasbox	524	MySQL
+agrinux	524	MySQL
+agrinux	525	PostgreSQL (pgsql)
+agrinux	531	SQLite
+agrovoct	524	MySQL
+agrumelaire	531	SQLite
+agu	524	MySQL
+aguestbook	524	MySQL
+ahahdegradable	524	MySQL
+ahambr	524	MySQL
+ahf	502	JDBC
+ahmeba	512	Project is a file-based DBMS (database system)
+ahnen	517	Berkeley/Sleepycat/Gdbm (DBM)
+ai-integration	530	Microsoft SQL Server
+ai-integration	524	MySQL
+ai-integration	525	PostgreSQL (pgsql)
+ai-tem	508	SQL-based
+ai20070102	526	Oracle
+aibotalk	507	XML-based
+aideaas	524	MySQL
+aidear	524	MySQL
+aiden	507	XML-based
+aidereport	524	MySQL
+aiengine	531	SQLite
+aiface	508	SQL-based
+aigaion	508	SQL-based
+aigaion	524	MySQL
+aigs	524	MySQL
+aigs	501	ODBC
+aikencms	509	Other API
+aim-alba	524	MySQL
+aimlbot	507	XML-based
+aimprofiler	521	Flat-file
+aimsniff	504	Perl DBI/DBD
+aimsniff	524	MySQL
+aimsphil	524	MySQL
+ainstall	524	MySQL
+aiocp	524	MySQL
+aione-editor	524	MySQL
+aione-editor	531	SQLite
+aip-enforcer	508	SQL-based
+aip-enforcer	524	MySQL
+air5023	521	Flat-file
+aircash	502	JDBC
+aircert	525	PostgreSQL (pgsql)
+aircraftsched	508	SQL-based
+aircraftschedul	505	PHP Pear::DB
+airfw	524	MySQL
+airs	504	Perl DBI/DBD
+airtodo	502	JDBC
+airtodo	508	SQL-based
+airtodo	532	HSQL
+ais	517	Berkeley/Sleepycat/Gdbm (DBM)
+ais	521	Flat-file
+ais-e	505	PHP Pear::DB
+ais-e	510	Project is a database abstraction layer (API)
+aist	525	PostgreSQL (pgsql)
+aitools	524	MySQL
+aix-pm	521	Flat-file
+aix-pm	522	Proprietary file format
+aix-storage	521	Flat-file
+ajantamedsuite	524	MySQL
+ajax-fit	504	Perl DBI/DBD
+ajax-fit	531	SQLite
+ajax-games	524	MySQL
+ajaxalytics	505	PHP Pear::DB
+ajaxalytics	504	Perl DBI/DBD
+ajaxalytics	502	JDBC
+ajaxcms	524	MySQL
+ajaxcommander	524	MySQL
+ajaxcommander	525	PostgreSQL (pgsql)
+ajaxdatagrid	530	Microsoft SQL Server
+ajaxdb	509	Other API
+ajaxdb	508	SQL-based
+ajaxdb	507	XML-based
+ajaxdb	510	Project is a database abstraction layer (API)
+ajaxembed	508	SQL-based
+ajaxexplorer	524	MySQL
+ajaxexplorer	525	PostgreSQL (pgsql)
+ajaxfilmdb	524	MySQL
+ajaxfs	504	Perl DBI/DBD
+ajaxfs	507	XML-based
+ajaxgrid	524	MySQL
+ajaxirc	524	MySQL
+ajaxmapper	502	JDBC
+ajaxmdb	502	JDBC
+ajaxmytop	524	MySQL
+ajaxnetmap	525	PostgreSQL (pgsql)
+ajaxora	502	JDBC
+ajaxora	526	Oracle
+ajaxpage	524	MySQL
+ajaxportlet	502	JDBC
+ajaxq	524	MySQL
+ajaxrad	524	MySQL
+ajaxrpg	524	MySQL
+ajaxtimer	524	MySQL
+ajaxtorrentflux	507	XML-based
+ajcrm	502	JDBC
+ajcrm	524	MySQL
+ajocms	502	JDBC
+ajwords	524	MySQL
+akarru	524	MySQL
+akelos	524	MySQL
+akelos	525	PostgreSQL (pgsql)
+akelos	531	SQLite
+akilsoft	508	SQL-based
+akisha	524	MySQL
+akitalivechat	521	Flat-file
+akjay	524	MySQL
+akkada	504	Perl DBI/DBD
+akkar	524	MySQL
+akme	502	JDBC
+akme	524	MySQL
+akoon	508	SQL-based
+akorn	505	PHP Pear::DB
+akrintranet	524	MySQL
+aksdna	530	Microsoft SQL Server
+aksum	507	XML-based
+akutan	502	JDBC
+akwebdyn	502	JDBC
+alambic	508	SQL-based
+alantra	524	MySQL
+alavuv2	501	ODBC
+alchemi	503	ADOdb
+alchemy	517	Berkeley/Sleepycat/Gdbm (DBM)
+alchemycms	524	MySQL
+alcomacco	502	JDBC
+alcplusbt	501	ODBC
+alcugs	524	MySQL
+alder	507	XML-based
+aldocontent	524	MySQL
+aleck	524	MySQL
+alege	502	JDBC
+aleph	524	MySQL
+alert-door	524	MySQL
+alerter	521	Flat-file
+alexandrerojkov	502	JDBC
+alexandria-ilib	508	SQL-based
+alexandriagame	509	Other API
+alexandris	508	SQL-based
+alexdresslerrr	524	MySQL
+alfacosmos	507	XML-based
+alfaqtiautor	507	XML-based
+alfaqtiautor	523	Other file-based DBMS
+alfaqtiengine	521	Flat-file
+alfaqtiengine	509	Other API
+alfaws	502	JDBC
+alfresco	502	JDBC
+algebraagent	509	Other API
+algebsql	502	JDBC
+algol	524	MySQL
+algorism	524	MySQL
+algrafproject	507	XML-based
+alias	521	Flat-file
+alicecms	524	MySQL
+alienorweblibre	524	MySQL
+alif	524	MySQL
+alimentum	508	SQL-based
+alinotes	508	SQL-based
+alinotes	528	Firebird/InterBase
+aliviar	507	XML-based
+alkalinephp	508	SQL-based
+alki	508	SQL-based
+alkimia	524	MySQL
+alkottab	530	Microsoft SQL Server
+all	509	Other API
+all-plasm	521	Flat-file
+all-remote	524	MySQL
+allcharities	530	Microsoft SQL Server
+alldms	511	Project is a database management tool
+alle-immobilien	524	MySQL
+allfastproject	507	XML-based
+allgames	524	MySQL
+alliancedb	524	MySQL
+allianceless	526	Oracle
+alllib	503	ADOdb
+alllib	508	SQL-based
+allmighty	504	Perl DBI/DBD
+allocpsa	524	MySQL
+almagest	502	JDBC
+almagest	526	Oracle
+almagnam	531	SQLite
+almanak	524	MySQL
+almsuite	524	MySQL
+alogfilter	521	Flat-file
+aloha	502	JDBC
+aloyscore	524	MySQL
+alpaka	507	XML-based
+alphablogger	524	MySQL
+alphacms	502	JDBC
+alphacms	501	ODBC
+alphacms	505	PHP Pear::DB
+alpmod	505	PHP Pear::DB
+alpmod	524	MySQL
+alquiplussg	530	Microsoft SQL Server
+alsedo-sd	530	Microsoft SQL Server
+alss	524	MySQL
+alt-geco	524	MySQL
+alt-js-glossary	514	Project is a tool for a proprietary database file format
+alteregos	502	JDBC
+alterfinance	524	MySQL
+alternatif	531	SQLite
+alternatif	526	Oracle
+alternatif	524	MySQL
+alternatif	502	JDBC
+alternators	503	ADOdb
+altmbox	507	XML-based
+alttender	524	MySQL
+alumni	503	ADOdb
+alumni-fiit	502	JDBC
+alumni-tracker	524	MySQL
+alumnicomposite	524	MySQL
+alumniconnect	524	MySQL
+alumnionrails	524	MySQL
+alvaria	503	ADOdb
+alvaria	524	MySQL
+always	507	XML-based
+alwaysalphacms	508	SQL-based
+alwaysalphacms	507	XML-based
+amaart	508	SQL-based
+amadis	524	MySQL
+amalaga	508	SQL-based
+amalaga	524	MySQL
+amalgam	502	JDBC
+amaly	502	JDBC
+amapop	521	Flat-file
+amarokweb	524	MySQL
+amarokwebfront	524	MySQL
+amas	524	MySQL
+amas	504	Perl DBI/DBD
+amavisadmin	508	SQL-based
+amavisadmin	525	PostgreSQL (pgsql)
+amazinghms	530	Microsoft SQL Server
+amazon-ec2-edit	507	XML-based
+amazonec2edit	507	XML-based
+amazonkuku	507	XML-based
+amazonstore	507	XML-based
+amazonstore	530	Microsoft SQL Server
+amb-free	524	MySQL
+amberfisharts	507	XML-based
+amberle	507	XML-based
+amberle	510	Project is a database abstraction layer (API)
+ambienti	502	JDBC
+ambit	524	MySQL
+ambit	502	JDBC
+ambition	505	PHP Pear::DB
+ambookworm	524	MySQL
+ambt	524	MySQL
+amcat	530	Microsoft SQL Server
+amebox	530	Microsoft SQL Server
+amel	507	XML-based
+amicus	524	MySQL
+amigos	525	PostgreSQL (pgsql)
+amj	524	MySQL
+ammap	508	SQL-based
+ammentos	502	JDBC
+ammentos	510	Project is a database abstraction layer (API)
+ammentos	516	Project is a relational object mapper
+ammt	502	JDBC
+amodules3	509	Other API
+amodules3	524	MySQL
+amp-fbrowser	524	MySQL
+ampache	524	MySQL
+ampdangel	524	MySQL
+ampedreports	529	Sybase
+ampedreports	525	PostgreSQL (pgsql)
+ampedreports	526	Oracle
+ampedreports	524	MySQL
+ampedreports	530	Microsoft SQL Server
+ampedreports	516	Project is a relational object mapper
+ampedreports	508	SQL-based
+ampedreports	502	JDBC
+ampit	524	MySQL
+ampit	508	SQL-based
+ampjuke	524	MySQL
+amplified	524	MySQL
+amplifymda	502	JDBC
+amppserv-xp	531	SQLite
+amppserv-xp	524	MySQL
+ampxstream	524	MySQL
+amrcmcm	524	MySQL
+amreservit	524	MySQL
+amsf	521	Flat-file
+amsf	508	SQL-based
+amsf	502	JDBC
+amsfindit	530	Microsoft SQL Server
+amsuite	517	Berkeley/Sleepycat/Gdbm (DBM)
+amsystem	502	JDBC
+amsystem	524	MySQL
+amyme	507	XML-based
+amyunix2	507	XML-based
+amyyang	508	SQL-based
+amyyang	504	Perl DBI/DBD
+amyyang	502	JDBC
+anagmt	519	xBase
+analizaprojektu	502	JDBC
+analizaprojektu	525	PostgreSQL (pgsql)
+analysenotiz	524	MySQL
+analyzewiki	530	Microsoft SQL Server
+anar-chat	531	SQLite
+anar-chat	525	PostgreSQL (pgsql)
+anar-chat	524	MySQL
+anar-chat	505	PHP Pear::DB
+anar-chat	501	ODBC
+anatest	524	MySQL
+anathema	507	XML-based
+anatimer	519	xBase
+anaxagora	524	MySQL
+anaxagora	502	JDBC
+ancient-books	524	MySQL
+ancientwars	523	Other file-based DBMS
+ancilla	533	Other network-based DBMS
+andecerto	507	XML-based
+anderssehncms	505	PHP Pear::DB
+anderssehncms	508	SQL-based
+anderssehncms	524	MySQL
+andro	525	PostgreSQL (pgsql)
+andromeda	502	JDBC
+andromeda	508	SQL-based
+andromeda	507	XML-based
+andromeda	524	MySQL
+andy-quest	522	Proprietary file format
+andyspalm	520	PalmOS PDB
+anebg	524	MySQL
+anemasys	508	SQL-based
+angajati	524	MySQL
+angal	524	MySQL
+angelcms	503	ADOdb
+angelcms	518	Microsoft Access
+angiraonline	524	MySQL
+angrysource	508	SQL-based
+angrysource	524	MySQL
+anikas	508	SQL-based
+anim	508	SQL-based
+anim2d	524	MySQL
+animal-towns	508	SQL-based
+animal-towns	524	MySQL
+animaltracker	524	MySQL
+animame	508	SQL-based
+animekafwk	510	Project is a database abstraction layer (API)
+animelister	524	MySQL
+aniss	524	MySQL
+anjelica	502	JDBC
+anjims	508	SQL-based
+ank99	524	MySQL
+ankete	524	MySQL
+ankhaatk	524	MySQL
+ankhaatk	525	PostgreSQL (pgsql)
+anlboard	502	JDBC
+anmewoot	524	MySQL
+anmoat	524	MySQL
+anna	504	Perl DBI/DBD
+annauniversity	502	JDBC
+annauniversity1	502	JDBC
+annauniversity2	502	JDBC
+annauniversity3	502	JDBC
+anne	507	XML-based
+anne	521	Flat-file
+anne	524	MySQL
+annotatio	502	JDBC
+annotatio	508	SQL-based
+annotatio	507	XML-based
+annotator	524	MySQL
+annoty	502	JDBC
+annuairewifi	524	MySQL
+ano-lasthope	524	MySQL
+anoa-api	516	Project is a relational object mapper
+anodms	524	MySQL
+anodms	503	ADOdb
+anomalywiki	522	Proprietary file format
+anon3d	531	SQLite
+anoninbox	524	MySQL
+anope	524	MySQL
+anope	521	Flat-file
+anotherpos	524	MySQL
+anpinger	504	Perl DBI/DBD
+anpinger	505	PHP Pear::DB
+answercache	524	MySQL
+answerme	524	MySQL
+ant-rts	521	Flat-file
+antdefects	530	Microsoft SQL Server
+antdns	525	PostgreSQL (pgsql)
+antdns	511	Project is a database management tool
+antdns	505	PHP Pear::DB
+anthemwiki	507	XML-based
+anthemwiki	530	Microsoft SQL Server
+anthemwiki	524	MySQL
+anthemwiki	531	SQLite
+anthill2	507	XML-based
+anti-despotism	508	SQL-based
+antibabel	520	PalmOS PDB
+antidialer	507	XML-based
+antigame	507	XML-based
+antikorupsi	518	Microsoft Access
+antikorupsi	530	Microsoft SQL Server
+antikorupsi	524	MySQL
+antikorupsi	526	Oracle
+antikorupsi	525	PostgreSQL (pgsql)
+antilibs	505	PHP Pear::DB
+antimalware	531	SQLite
+antique-tsm	508	SQL-based
+antique-tsm	507	XML-based
+antoinegg7	502	JDBC
+antonomasya	502	JDBC
+antonomasya	525	PostgreSQL (pgsql)
+antonomasya	526	Oracle
+antonomasya	524	MySQL
+antonomasya	530	Microsoft SQL Server
+antonomasya	527	IBM DB2
+antonomasya	509	Other API
+antunion	505	PHP Pear::DB
+antunion	524	MySQL
+anumeya	507	XML-based
+anumeya	508	SQL-based
+anusaaraka	517	Berkeley/Sleepycat/Gdbm (DBM)
+anwiki	524	MySQL
+anyfs	525	PostgreSQL (pgsql)
+anythinganon	530	Microsoft SQL Server
+aoblogger	524	MySQL
+aocclusion	521	Flat-file
+aocell	531	SQLite
+aocell	524	MySQL
+aocell	521	Flat-file
+aocell	507	XML-based
+aodbb	524	MySQL
+aoia	531	SQLite
+aom-xmlobject	507	XML-based
+aomaprenderer	524	MySQL
+aosim	508	SQL-based
+aotm	522	Proprietary file format
+aotp	521	Flat-file
+aousis	524	MySQL
+aowapi	524	MySQL
+aowar	524	MySQL
+apache-tcl	509	Other API
+apache-traffic	524	MySQL
+apache2owa	526	Oracle
+apache2triad	524	MySQL
+apache2triad	525	PostgreSQL (pgsql)
+apachecontrol	507	XML-based
+apacheerror	504	Perl DBI/DBD
+apachestats	524	MySQL
+apatar	502	JDBC
+apatar	509	Other API
+apatar	521	Flat-file
+apatar	527	IBM DB2
+apatar	530	Microsoft SQL Server
+apatar	524	MySQL
+apatar	526	Oracle
+apatar	525	PostgreSQL (pgsql)
+apatar	529	Sybase
+apathetic	524	MySQL
+apbyas	524	MySQL
+apcms	503	ADOdb
+apcre	524	MySQL
+apdb	525	PostgreSQL (pgsql)
+aped	504	Perl DBI/DBD
+aped	524	MySQL
+apeirokalia	526	Oracle
+apeirokalia	530	Microsoft SQL Server
+apeirokalia	512	Project is a file-based DBMS (database system)
+apeirokalia	520	PalmOS PDB
+apeirokalia	507	XML-based
+apeirokalia	508	SQL-based
+apelon-dts	530	Microsoft SQL Server
+apelon-dts	526	Oracle
+apenmoolgen	502	JDBC
+apes	521	Flat-file
+apexlib	526	Oracle
+apgames	514	Project is a tool for a proprietary database file format
+apgdiff	525	PostgreSQL (pgsql)
+apgdiff	511	Project is a database management tool
+apgf	524	MySQL
+aphpkb	524	MySQL
+aphplix	524	MySQL
+aphplix	531	SQLite
+apit	501	ODBC
+apkframework	509	Other API
+apl	524	MySQL
+aplaws	525	PostgreSQL (pgsql)
+aplaws	526	Oracle
+apollomigration	502	JDBC
+apolon	524	MySQL
+apophenia	508	SQL-based
+aportal	518	Microsoft Access
+apostil	502	JDBC
+apothikarios	524	MySQL
+app-template	532	HSQL
+apparatus	524	MySQL
+appcheck	502	JDBC
+appexp	521	Flat-file
+appformap	525	PostgreSQL (pgsql)
+appin	524	MySQL
+applacrity	502	JDBC
+applimovies	532	HSQL
+appmaker	508	SQL-based
+appmaker	530	Microsoft SQL Server
+appms	524	MySQL
+appointment	518	Microsoft Access
+appr	508	SQL-based
+appr	506	Python Database API
+apps4gl	501	ODBC
+apps4gl	508	SQL-based
+apps4gl	527	IBM DB2
+apps4gl	530	Microsoft SQL Server
+apps4gl	526	Oracle
+apps4gl	525	PostgreSQL (pgsql)
+appserver-s	511	Project is a database management tool
+appstarter	518	Microsoft Access
+appstarter	507	XML-based
+appstarter	503	ADOdb
+appsunit	526	Oracle
+appwiki	508	SQL-based
+appxbang	525	PostgreSQL (pgsql)
+appxbang	526	Oracle
+appxbang	524	MySQL
+appxbang	530	Microsoft SQL Server
+appxbang	527	IBM DB2
+appxbang	522	Proprietary file format
+appxbang	523	Other file-based DBMS
+appxbang	518	Microsoft Access
+appxbang	501	ODBC
+apq	529	Sybase
+apq	525	PostgreSQL (pgsql)
+apq	524	MySQL
+apq	510	Project is a database abstraction layer (API)
+apricleblog	524	MySQL
+apricot	529	Sybase
+apricot	531	SQLite
+apricot	525	PostgreSQL (pgsql)
+apricot	526	Oracle
+apricot	524	MySQL
+apricot	530	Microsoft SQL Server
+apricot	527	IBM DB2
+apricot	528	Firebird/InterBase
+apricot	523	Other file-based DBMS
+aprocms	524	MySQL
+aprox-engine	521	Flat-file
+aps	524	MySQL
+apsmodule	510	Project is a database abstraction layer (API)
+aptcms	509	Other API
+aptech-hrm	530	Microsoft SQL Server
+aptoncd	506	Python Database API
+apvision	524	MySQL
+aqdweb	508	SQL-based
+aqdweb	530	Microsoft SQL Server
+aqdweb	525	PostgreSQL (pgsql)
+aqpmsn	509	Other API
+aqualog	502	JDBC
+aquamdb	524	MySQL
+aquamdb	531	SQLite
+aquanota	524	MySQL
+aquasafe	524	MySQL
+ar8n-glossary	524	MySQL
+arab-cart	524	MySQL
+arabic-jaws	524	MySQL
+arabisc	501	ODBC
+aragonframework	532	HSQL
+aragonframework	502	JDBC
+aragorn	509	Other API
+arale	525	PostgreSQL (pgsql)
+aramorph	521	Flat-file
+aramorph	524	MySQL
+aramorph	525	PostgreSQL (pgsql)
+aramorph	531	SQLite
+arandano	507	XML-based
+aranduata	524	MySQL
+aranduata	521	Flat-file
+aranduata	502	JDBC
+araneidae	510	Project is a database abstraction layer (API)
+arapuka	507	XML-based
+arbcms	524	MySQL
+arbre	507	XML-based
+arcademct	518	Microsoft Access
+arcanerealm	502	JDBC
+arcbb	524	MySQL
+arcflickr	502	JDBC
+archaeolog	524	MySQL
+archangelinc	508	SQL-based
+archbot	507	XML-based
+archcms	524	MySQL
+archelper	530	Microsoft SQL Server
+archinteledi	502	JDBC
+archivetool	502	JDBC
+archivexindex	502	JDBC
+archiviasms	518	Microsoft Access
+archiweb	524	MySQL
+archmedia	525	PostgreSQL (pgsql)
+archmedia	524	MySQL
+archrival	507	XML-based
+archverse	521	Flat-file
+arcitey	524	MySQL
+arcs	525	PostgreSQL (pgsql)
+arcwayback	502	JDBC
+ard	501	ODBC
+area51cms	524	MySQL
+areath	524	MySQL
+areath	502	JDBC
+areca	507	XML-based
+arenaforum	503	ADOdb
+arenaforum	524	MySQL
+arenainf312	524	MySQL
+arfy	524	MySQL
+argil	524	MySQL
+argon-lite	525	PostgreSQL (pgsql)
+argon-ps2	507	XML-based
+argos-viewpoint	525	PostgreSQL (pgsql)
+argrim	524	MySQL
+argumentative	507	XML-based
+argunet	508	SQL-based
+argus-tracker	525	PostgreSQL (pgsql)
+arguvision	524	MySQL
+arh-gpl-auction	521	Flat-file
+ari	531	SQLite
+ari	507	XML-based
+ari	508	SQL-based
+ari	509	Other API
+arianne	508	SQL-based
+arianne	507	XML-based
+arianne	524	MySQL
+arihuaopen	524	MySQL
+ariza	525	PostgreSQL (pgsql)
+ariza	526	Oracle
+ariza	524	MySQL
+ariza	508	SQL-based
+ariza	505	PHP Pear::DB
+arjava	502	JDBC
+arjava	524	MySQL
+arkania	524	MySQL
+arkaplan	521	Flat-file
+arkdb	524	MySQL
+arkidb	508	SQL-based
+arktosfms	524	MySQL
+arkwaf	503	ADOdb
+arm-std-mpk	524	MySQL
+arm4	517	Berkeley/Sleepycat/Gdbm (DBM)
+armabell	521	Flat-file
+armed	508	SQL-based
+armixshopengine	524	MySQL
+armr	521	Flat-file
+arms-waot	524	MySQL
+armstrong	506	Python Database API
+armyofone	530	Microsoft SQL Server
+arogya	525	PostgreSQL (pgsql)
+arogya	526	Oracle
+arogya	502	JDBC
+arpm	521	Flat-file
+arrange	525	PostgreSQL (pgsql)
+arrange-rowing	502	JDBC
+arrayplex	502	JDBC
+arrayplex	525	PostgreSQL (pgsql)
+arrgh	531	SQLite
+arrowbase	508	SQL-based
+arrows	512	Project is a file-based DBMS (database system)
+arsautomation	509	Other API
+arscel	508	SQL-based
+arscel	507	XML-based
+arsenal-1	521	Flat-file
+arshifi	518	Microsoft Access
+art-data	525	PostgreSQL (pgsql)
+art-life	524	MySQL
+art-quizer	518	Microsoft Access
+art-testbed	524	MySQL
+art23firebird	528	Firebird/InterBase
+artamis	524	MySQL
+arteduca	503	ADOdb
+arteduca	524	MySQL
+artemis-fh	507	XML-based
+artemisvote	524	MySQL
+article-ms	524	MySQL
+articlethis	524	MySQL
+artifax	502	JDBC
+artikel23	525	PostgreSQL (pgsql)
+artlvm	524	MySQL
+artlvm	502	JDBC
+artregistry	505	PHP Pear::DB
+artregistry	524	MySQL
+artregistry	525	PostgreSQL (pgsql)
+arunodhaya80	530	Microsoft SQL Server
+asa-atl	524	MySQL
+asa-caltech	521	Flat-file
+asan	521	Flat-file
+asas	524	MySQL
+asat	507	XML-based
+asbum	505	PHP Pear::DB
+aschecador	525	PostgreSQL (pgsql)
+ascii-tetris	521	Flat-file
+ascore	504	Perl DBI/DBD
+ascore	524	MySQL
+aseco	524	MySQL
+aseisql	529	Sybase
+asf-james-mgt	524	MySQL
+asgardrpg	507	XML-based
+ashamanempires	524	MySQL
+ashbrookprime	508	SQL-based
+ashnix	502	JDBC
+ashnix	524	MySQL
+asholamp	524	MySQL
+asjaca	502	JDBC
+asjaca	508	SQL-based
+asjaca	507	XML-based
+ask	507	XML-based
+askcms	524	MySQL
+aslinks	517	Berkeley/Sleepycat/Gdbm (DBM)
+asmatic	507	XML-based
+asnmtap	504	Perl DBI/DBD
+asnmtap	524	MySQL
+asom	524	MySQL
+asp-admin	518	Microsoft Access
+asp-net-bb	508	SQL-based
+asp-project	518	Microsoft Access
+asp-swb	524	MySQL
+asp-swb	507	XML-based
+asp-swb	508	SQL-based
+aspace	503	ADOdb
+aspace	521	Flat-file
+aspbbforum	518	Microsoft Access
+aspbbforum	524	MySQL
+aspeasygallery	521	Flat-file
+aspect	524	MySQL
+aspen	524	MySQL
+aspforums	507	XML-based
+aspfoto	524	MySQL
+aspfreakautoupd	507	XML-based
+aspfusion1	518	Microsoft Access
+aspfusion1	530	Microsoft SQL Server
+aspfusion1	524	MySQL
+asphyre	507	XML-based
+asphyre	514	Project is a tool for a proprietary database file format
+aspider	521	Flat-file
+aspinfinity	524	MySQL
+aspinfinity	530	Microsoft SQL Server
+aspinfinity	518	Microsoft Access
+aspipe	504	Perl DBI/DBD
+aspipe	524	MySQL
+aspire	524	MySQL
+aspl-fact	525	PostgreSQL (pgsql)
+asplinks	501	ODBC
+asplinks	508	SQL-based
+asplinks	530	Microsoft SQL Server
+asplinks	524	MySQL
+aspnetblogproje	503	ADOdb
+aspnetforum	524	MySQL
+asppress	518	Microsoft Access
+aspprocatalog	518	Microsoft Access
+asptracker	530	Microsoft SQL Server
+asptree	518	Microsoft Access
+aspxblog	507	XML-based
+aspxdbac	518	Microsoft Access
+asqlite	531	SQLite
+assemblyview	507	XML-based
+asset-eyes	502	JDBC
+assetfreehd	524	MySQL
+assetmanagement	509	Other API
+assetmanagement	524	MySQL
+assetmanager	507	XML-based
+assetssosimple	524	MySQL
+assign-calc	524	MySQL
+assistant-print	525	PostgreSQL (pgsql)
+assistent-fah	507	XML-based
+associated	524	MySQL
+astatspro	524	MySQL
+astbill	524	MySQL
+astcccrm	524	MySQL
+astcontrol	524	MySQL
+aster	502	JDBC
+aster-oid	501	ODBC
+aster-oid	504	Perl DBI/DBD
+aster-oid	525	PostgreSQL (pgsql)
+astercallcenter	524	MySQL
+asterisk4work	524	MySQL
+asteriskadmin	524	MySQL
+asteriskrtadmin	524	MySQL
+asteriskvoip	502	JDBC
+astguiclient	508	SQL-based
+astiob	524	MySQL
+astjavabill	525	PostgreSQL (pgsql)
+astjavabill	526	Oracle
+astjavabill	524	MySQL
+astjavabill	502	JDBC
+astmail	524	MySQL
+astprepaid-fbsd	525	PostgreSQL (pgsql)
+astqueuestats	508	SQL-based
+astrohalaxy	510	Project is a database abstraction layer (API)
+astrokeep	507	XML-based
+astrokeep	530	Microsoft SQL Server
+astrolanguage	521	Flat-file
+astrolator	532	HSQL
+astrolom	521	Flat-file
+astroobs	524	MySQL
+astrospaces	505	PHP Pear::DB
+astrumfutura	508	SQL-based
+astrumfutura	524	MySQL
+astrumfutura	525	PostgreSQL (pgsql)
+astweb	525	PostgreSQL (pgsql)
+astwebpanel	525	PostgreSQL (pgsql)
+asumi-task-m	507	XML-based
+asverd	502	JDBC
+asysite	516	Project is a relational object mapper
+atabaque	507	XML-based
+atah	502	JDBC
+atah	524	MySQL
+atak	507	XML-based
+atbb	505	PHP Pear::DB
+atbb	530	Microsoft SQL Server
+atbb	524	MySQL
+atbb	533	Other network-based DBMS
+atbb	525	PostgreSQL (pgsql)
+atcsignup	508	SQL-based
+atd	508	SQL-based
+atd	507	XML-based
+atd	524	MySQL
+atdor	521	Flat-file
+atdor	524	MySQL
+atech-tools	511	Project is a database management tool
+ateliernounours	524	MySQL
+atena	502	JDBC
+atena	532	HSQL
+ateneo	504	Perl DBI/DBD
+atesa	524	MySQL
+atevents	505	PHP Pear::DB
+athletix	502	JDBC
+athletix	533	Other network-based DBMS
+athosrfid	502	JDBC
+athscap	518	Microsoft Access
+ati	502	JDBC
+atlantal	502	JDBC
+atlantispbem2	507	XML-based
+atma	506	Python Database API
+atmail2postfix	524	MySQL
+atman	524	MySQL
+atman	526	Oracle
+atom3d	524	MySQL
+atomaticms	518	Microsoft Access
+atomaticms	530	Microsoft SQL Server
+atomaticms	524	MySQL
+atomik	524	MySQL
+atomphotoblog	524	MySQL
+atomsphere	521	Flat-file
+atreyu	524	MySQL
+ats-framework	501	ODBC
+ats-system	524	MySQL
+atscap	521	Flat-file
+atsinfocenter	507	XML-based
+attem	524	MySQL
+attendance	524	MySQL
+attendencetrack	507	XML-based
+attendmanager	521	Flat-file
+attendo	524	MySQL
+attic	521	Flat-file
+attitude	507	XML-based
+atutor	524	MySQL
+atutor2go	524	MySQL
+au3forums	531	SQLite
+auase	503	ADOdb
+auase	501	ODBC
+aubelisk	524	MySQL
+auboard	531	SQLite
+auboard	525	PostgreSQL (pgsql)
+auboard	524	MySQL
+auboard	509	Other API
+aucas	524	MySQL
+auction-frmwrk	524	MySQL
+auction-frmwrk	525	PostgreSQL (pgsql)
+auctioneer-wow	523	Other file-based DBMS
+auctionexchange	524	MySQL
+auctionfeed	524	MySQL
+auctionlister	524	MySQL
+audacity-extra	507	XML-based
+audiobook	507	XML-based
+audioenclave	506	Python Database API
+audiolibrary	524	MySQL
+audioplayer	521	Flat-file
+audit-test	521	Flat-file
+audithem	524	MySQL
+auditisx	526	Oracle
+auditisx	530	Microsoft SQL Server
+auditisx	518	Microsoft Access
+auditisx	507	XML-based
+audittracking	502	JDBC
+aufgabenmanager	524	MySQL
+aulanarede	528	Firebird/InterBase
+aulari-virtual	525	PostgreSQL (pgsql)
+aurabpm	502	JDBC
+auraproject	502	JDBC
+aurora-cms	525	PostgreSQL (pgsql)
+aurora-cms	524	MySQL
+aurora-cms	530	Microsoft SQL Server
+aurora-cms	508	SQL-based
+aurora-cms	502	JDBC
+aurora-ims	501	ODBC
+aurorab	508	SQL-based
+auroraproject	521	Flat-file
+aususa	522	Proprietary file format
+auth-mysql-ldap	524	MySQL
+authadmin	524	MySQL
+authmanager	524	MySQL
+authware	524	MySQL
+auto-mp3	508	SQL-based
+autobudget	521	Flat-file
+autocondat	502	JDBC
+autocondat	505	PHP Pear::DB
+autocondat	524	MySQL
+autofiler	504	Perl DBI/DBD
+autofiler	525	PostgreSQL (pgsql)
+autogetsublime	523	Other file-based DBMS
+autohome-v1	508	SQL-based
+autohost	524	MySQL
+autoindex	521	Flat-file
+autojock	531	SQLite
+autokennzeichen	521	Flat-file
+automagic-ha	507	XML-based
+automatedliving	524	MySQL
+automatic-drake	524	MySQL
+automonial	524	MySQL
+automote	523	Other file-based DBMS
+autopatch	508	SQL-based
+autopatch	515	Project is a database conversion tool
+autopatch	511	Project is a database management tool
+autopatch	526	Oracle
+autopatch	525	PostgreSQL (pgsql)
+autopgsqlbackup	525	PostgreSQL (pgsql)
+autopgsqlbakup	525	PostgreSQL (pgsql)
+autopsi	502	JDBC
+autoq	530	Microsoft SQL Server
+autoquote	526	Oracle
+autoradio	531	SQLite
+autorespond-it	524	MySQL
+autoresult	524	MySQL
+autosat	504	Perl DBI/DBD
+autositemap	507	XML-based
+autosocscien	524	MySQL
+autostrip	524	MySQL
+autosummary	521	Flat-file
+autotek	518	Microsoft Access
+autotek	507	XML-based
+autotest-frmwrk	504	Perl DBI/DBD
+autotest-frmwrk	530	Microsoft SQL Server
+autotest-frmwrk	525	PostgreSQL (pgsql)
+autotestnet	524	MySQL
+autotrader	518	Microsoft Access
+autotrader	530	Microsoft SQL Server
+autovat	502	JDBC
+autoverkauf	518	Microsoft Access
+autovermietung	502	JDBC
+autoweb	524	MySQL
+auxiliary	524	MySQL
+auxilium	502	JDBC
+auxreader	524	MySQL
+avaele	522	Proprietary file format
+avalon1	530	Microsoft SQL Server
+avalosworld	505	PHP Pear::DB
+avalosworld	508	SQL-based
+avalosworld	507	XML-based
+avastuproject	524	MySQL
+avatar-it	524	MySQL
+avatarmakerbr	507	XML-based
+avdms	524	MySQL
+avdms	525	PostgreSQL (pgsql)
+avenger-2006	505	PHP Pear::DB
+avenger-2006	524	MySQL
+avenuedbm	517	Berkeley/Sleepycat/Gdbm (DBM)
+avenuedbm	531	SQLite
+averti	523	Other file-based DBMS
+avexcms	524	MySQL
+avianfs	507	XML-based
+aviarycms	507	XML-based
+aviarycms	510	Project is a database abstraction layer (API)
+aviarycms	525	PostgreSQL (pgsql)
+avilas	502	JDBC
+avip-inventory	524	MySQL
+avltracking	525	PostgreSQL (pgsql)
+avotcore	507	XML-based
+avotcore	524	MySQL
+avpgcon	525	PostgreSQL (pgsql)
+avrsim	507	XML-based
+avsap	525	PostgreSQL (pgsql)
+aw2sql	524	MySQL
+aweblibs	510	Project is a database abstraction layer (API)
+aweblibs	524	MySQL
+aweblibs	525	PostgreSQL (pgsql)
+awebusenet	523	Other file-based DBMS
+awebusenet	524	MySQL
+awerpg	506	Python Database API
+aworkbench	517	Berkeley/Sleepycat/Gdbm (DBM)
+aws	524	MySQL
+aws	531	SQLite
+awsome	531	SQLite
+awtaglib	502	JDBC
+awzmb	524	MySQL
+ax-datacon	524	MySQL
+axdcms	508	SQL-based
+axdcms	524	MySQL
+axiomengine	507	XML-based
+axiomknights	508	SQL-based
+axipi	509	Other API
+axipi	524	MySQL
+axisandallies	530	Microsoft SQL Server
+axisstat	508	SQL-based
+axle	507	XML-based
+axle	531	SQLite
+axmanager	524	MySQL
+axp	528	Firebird/InterBase
+axtools	508	SQL-based
+axtools	501	ODBC
+axyl	509	Other API
+axyl	510	Project is a database abstraction layer (API)
+ayla	505	PHP Pear::DB
+ayra	503	ADOdb
+ayra	501	ODBC
+ayra	509	Other API
+azalpha	521	Flat-file
+azdbcopy	530	Microsoft SQL Server
+azdbcopy	515	Project is a database conversion tool
+aziendaexpress	502	JDBC
+azkaban	502	JDBC
+azubuike	525	PostgreSQL (pgsql)
+azubuike	524	MySQL
+azubuike	528	Firebird/InterBase
+azucarcms	525	PostgreSQL (pgsql)
+azul-cms	524	MySQL
+azumaportal	509	Other API
+azumaportal	508	SQL-based
+azvoice	507	XML-based
+azzurrairc	522	Proprietary file format
+b-net	524	MySQL
+b-net	531	SQLite
+b-shade	518	Microsoft Access
+b2b-order-form	521	Flat-file
+b2b-platform	524	MySQL
+b2bsuite	524	MySQL
+b4jobs	507	XML-based
+b5combatsim	507	XML-based
+ba-fo-ma	507	XML-based
+ba-fo-ma	502	JDBC
+baadengine	522	Proprietary file format
+babel	524	MySQL
+babilonia-net	530	Microsoft SQL Server
+baboom	516	Project is a relational object mapper
+babyguard	524	MySQL
+backbone	508	SQL-based
+backdraft	524	MySQL
+backoffice-irc	525	PostgreSQL (pgsql)
+backpi	524	MySQL
+backspace	522	Proprietary file format
+backupmon	508	SQL-based
+backupmon	521	Flat-file
+backupsblow	524	MySQL
+backuptodvd	524	MySQL
+bacman	518	Microsoft Access
+bacms	524	MySQL
+bacula-ifi	524	MySQL
+badbb	524	MySQL
+badmin	507	XML-based
+bagda	525	PostgreSQL (pgsql)
+bahamut-sango	501	ODBC
+bahamut-sango	521	Flat-file
+baka-bean	502	JDBC
+bakederp	509	Other API
+bakederp	524	MySQL
+balaka	509	Other API
+balaka	533	Other network-based DBMS
+balanca	525	PostgreSQL (pgsql)
+balbes	524	MySQL
+balcony	524	MySQL
+balihbs-scripts	521	Flat-file
+balimbing	521	Flat-file
+balimbing	524	MySQL
+ball-messenger	524	MySQL
+ballena	507	XML-based
+ballistics-barn	524	MySQL
+bambi	517	Berkeley/Sleepycat/Gdbm (DBM)
+bamboo-cms	525	PostgreSQL (pgsql)
+bamboo-cms	507	XML-based
+bamboo-cms	508	SQL-based
+bamuba	502	JDBC
+bamuba	524	MySQL
+bananapanel	524	MySQL
+bananaphp	510	Project is a database abstraction layer (API)
+band-mgr	505	PHP Pear::DB
+bandcms	524	MySQL
+bandicut	524	MySQL
+bandman	524	MySQL
+bandsitecms	524	MySQL
+bandwidthd	525	PostgreSQL (pgsql)
+banglasms	509	Other API
+bangzhu	524	MySQL
+banjar	505	PHP Pear::DB
+banken	502	JDBC
+banken	533	Other network-based DBMS
+bankingsystem	530	Microsoft SQL Server
+banyanims	506	Python Database API
+banyantree	524	MySQL
+banyantree	525	PostgreSQL (pgsql)
+baosc2erp	524	MySQL
+baosc2erp	525	PostgreSQL (pgsql)
+baozhu	524	MySQL
+baratillo	524	MySQL
+barcode	508	SQL-based
+barcode	524	MySQL
+bardak	503	ADOdb
+barenuked	524	MySQL
+bark	507	XML-based
+barrestpos	521	Flat-file
+bartend	530	Microsoft SQL Server
+bartolo	505	PHP Pear::DB
+bartr	524	MySQL
+bas2	519	xBase
+baschat	524	MySQL
+bascms	524	MySQL
+base-jumper	508	SQL-based
+baseballscoring	530	Microsoft SQL Server
+baseform	505	PHP Pear::DB
+baseone	524	MySQL
+baseplus	503	ADOdb
+basesite-php	525	PostgreSQL (pgsql)
+basex	507	XML-based
+bashar	504	Perl DBI/DBD
+bashar	524	MySQL
+bashar	525	PostgreSQL (pgsql)
+bashcp	524	MySQL
+bashwiki	523	Other file-based DBMS
+basic-cms	524	MySQL
+basicges	524	MySQL
+basicmeter	524	MySQL
+basicmeter	525	PostgreSQL (pgsql)
+basicpanel	524	MySQL
+basisframework	510	Project is a database abstraction layer (API)
+basketball	525	PostgreSQL (pgsql)
+bass	523	Other file-based DBMS
+bass	502	JDBC
+bassa	507	XML-based
+basu	514	Project is a tool for a proprietary database file format
+batch4j	502	JDBC
+batchlogin	522	Proprietary file format
+battlearms	524	MySQL
+battlearms	508	SQL-based
+battleforge	532	HSQL
+battleforge	524	MySQL
+battlesoccer	524	MySQL
+baumkataster	524	MySQL
+bav	521	Flat-file
+bav	522	Proprietary file format
+bav	524	MySQL
+bav	525	PostgreSQL (pgsql)
+bav	531	SQLite
+bazen-jukebox	524	MySQL
+bazi	502	JDBC
+bb-cms	524	MySQL
+bbc	502	JDBC
+bbcms	510	Project is a database abstraction layer (API)
+bbcs	502	JDBC
+bbcwiki	507	XML-based
+bbinfo	513	Project is a network-based DBMS (database system)
+bbkernel	524	MySQL
+bboard	503	ADOdb
+bbquest	524	MySQL
+bbrail	525	PostgreSQL (pgsql)
+bbrail	526	Oracle
+bbrail	524	MySQL
+bbrail	530	Microsoft SQL Server
+bbs-notifier	531	SQLite
+bbsmax	518	Microsoft Access
+bbsmax	530	Microsoft SQL Server
+bbsms	533	Other network-based DBMS
+bbsms	502	JDBC
+bbstatus	525	PostgreSQL (pgsql)
+bbsystem	524	MySQL
+bbuilder	524	MySQL
+bbultimate	524	MySQL
+bbultimate	508	SQL-based
+bbxp	524	MySQL
+bbz	507	XML-based
+bc-core	524	MySQL
+bcaster	505	PHP Pear::DB
+bcaster	524	MySQL
+bcc	504	Perl DBI/DBD
+bcimmersion	521	Flat-file
+bcmslib	524	MySQL
+bcs	503	ADOdb
+bday-remind	502	JDBC
+bdlib	508	SQL-based
+bdpnuke	503	ADOdb
+bdsim	507	XML-based
+bdsm	524	MySQL
+bdsms	531	SQLite
+be-2tha2-3	503	ADOdb
+beachr	521	Flat-file
+beagleframework	531	SQLite
+beagleframework	525	PostgreSQL (pgsql)
+beagleframework	533	Other network-based DBMS
+beagleframework	526	Oracle
+beagleframework	524	MySQL
+beagleframework	532	HSQL
+beagleframework	516	Project is a relational object mapper
+beagleframework	502	JDBC
+beam-beta	524	MySQL
+beamer-tool	507	XML-based
+beanexaminer	510	Project is a database abstraction layer (API)
+beanexaminer	502	JDBC
+beanhelpdesk	508	SQL-based
+beanie	524	MySQL
+beanie	533	Other network-based DBMS
+bear-php	524	MySQL
+bearichman	507	XML-based
+bearings	503	ADOdb
+bearings	524	MySQL
+bearsync	502	JDBC
+beastcms	524	MySQL
+beatbox	521	Flat-file
+beauty-hair-mng	525	PostgreSQL (pgsql)
+beaverbin	524	MySQL
+beaverdesk	524	MySQL
+becape	531	SQLite
+becontent	524	MySQL
+bee	525	PostgreSQL (pgsql)
+bee	533	Other network-based DBMS
+bee	526	Oracle
+bee	524	MySQL
+bee	504	Perl DBI/DBD
+beedoncms	524	MySQL
+beef-framework	524	MySQL
+beegle	524	MySQL
+beeping	521	Flat-file
+beer	517	Berkeley/Sleepycat/Gdbm (DBM)
+beercrafter	525	PostgreSQL (pgsql)
+beeswax	507	XML-based
+beetlestatsutil	514	Project is a tool for a proprietary database file format
+beetv	507	XML-based
+beginner-chines	518	Microsoft Access
+begmon	507	XML-based
+behexed	521	Flat-file
+behsp	506	Python Database API
+behsp	525	PostgreSQL (pgsql)
+belegost	524	MySQL
+belzebub	506	Python Database API
+belzebub	508	SQL-based
+bemtevi	524	MySQL
+benchmarksql	502	JDBC
+bend	525	PostgreSQL (pgsql)
+bendig-erp	524	MySQL
+benzine	507	XML-based
+beo	521	Flat-file
+beo	524	MySQL
+beraber	524	MySQL
+berg	502	JDBC
+bergamo	501	ODBC
+bergenblink	502	JDBC
+beride	502	JDBC
+berkano	521	Flat-file
+bernardinis	502	JDBC
+berry	510	Project is a database abstraction layer (API)
+bespoke	524	MySQL
+bess	502	JDBC
+bess	532	HSQL
+bestbooks	502	JDBC
+bestcomm	524	MySQL
+bestory	531	SQLite
+besttest	524	MySQL
+betasigncontrol	502	JDBC
+betasigncontrol	524	MySQL
+betshop4j	502	JDBC
+betster	524	MySQL
+better-eventcal	524	MySQL
+betterawstats	521	Flat-file
+betting	524	MySQL
+bework	505	PHP Pear::DB
+beyondmtgo	521	Flat-file
+beyondproject	508	SQL-based
+beyondproject	524	MySQL
+beyondproject	531	SQLite
+bezhen	502	JDBC
+bezpub	524	MySQL
+bezpub	525	PostgreSQL (pgsql)
+bf2142privstat	524	MySQL
+bf2autoloader	505	PHP Pear::DB
+bfexplorer	525	PostgreSQL (pgsql)
+bfexplorer	524	MySQL
+bfit	508	SQL-based
+bfmedia	507	XML-based
+bfs	502	JDBC
+bfsblackjack	521	Flat-file
+bfv89ru	524	MySQL
+bgcms	508	SQL-based
+bgcms	524	MySQL
+bgf	531	SQLite
+bgf	525	PostgreSQL (pgsql)
+bgf	524	MySQL
+bgf	510	Project is a database abstraction layer (API)
+bgoffice	521	Flat-file
+bgroupware	524	MySQL
+bgroupware	525	PostgreSQL (pgsql)
+bgsc	502	JDBC
+bgsc	524	MySQL
+bgsc	526	Oracle
+bgt	524	MySQL
+bhojpuri	524	MySQL
+bhpro	502	JDBC
+bhpstool	521	Flat-file
+bhrpul	506	Python Database API
+bhrpul	508	SQL-based
+bhrpul	525	PostgreSQL (pgsql)
+bhttp	521	Flat-file
+biac	524	MySQL
+bianlian	503	ADOdb
+bianlian	502	JDBC
+bib-it	512	Project is a file-based DBMS (database system)
+bibagent	507	XML-based
+bibagent	521	Flat-file
+bibbase	521	Flat-file
+bibber	524	MySQL
+bibciter	524	MySQL
+biblesuper	524	MySQL
+biblic	501	ODBC
+biblic	524	MySQL
+biblicaldebates	524	MySQL
+biblio	524	MySQL
+bibliocode	531	SQLite
+biblioman	528	Firebird/InterBase
+bibliomori	531	SQLite
+biblion	524	MySQL
+biblioserve	524	MySQL
+biblioserve	521	Flat-file
+biblioserve	508	SQL-based
+biblioserve	506	Python Database API
+biblioteca	524	MySQL
+bibliotecalivre	525	PostgreSQL (pgsql)
+bibliotecalivre	524	MySQL
+bibliotheque	524	MySQL
+bibliotheque	525	PostgreSQL (pgsql)
+bibliovts	530	Microsoft SQL Server
+biblox	522	Proprietary file format
+biblox	531	SQLite
+bibro	505	PHP Pear::DB
+bibs-crea-mapeo	527	IBM DB2
+bibs-crea-mapeo	530	Microsoft SQL Server
+bibsis	524	MySQL
+bibus-biblio	524	MySQL
+bibus-biblio	531	SQLite
+bidnobble	507	XML-based
+bidprent-is	530	Microsoft SQL Server
+bie-gpl	502	JDBC
+biffapi	524	MySQL
+bifrost	502	JDBC
+bifrostproj	508	SQL-based
+bigace	524	MySQL
+bigboos	524	MySQL
+bigbrotherbot	506	Python Database API
+bigbrotherbot	524	MySQL
+bigbrowser	509	Other API
+bigdata	513	Project is a network-based DBMS (database system)
+bigdiscdb	502	JDBC
+bigdiscdb	507	XML-based
+bigdiscdb	512	Project is a file-based DBMS (database system)
+bigfish	524	MySQL
+bigfusion	503	ADOdb
+bigmailer	522	Proprietary file format
+bigorangebttns	523	Other file-based DBMS
+bigpress	505	PHP Pear::DB
+bigrcms	524	MySQL
+bigshop	509	Other API
+bigshop	508	SQL-based
+bigshop	524	MySQL
+bigshop	525	PostgreSQL (pgsql)
+bigtrick	507	XML-based
+biise	507	XML-based
+bika	506	Python Database API
+bike-server	508	SQL-based
+bikestats	524	MySQL
+bilding	508	SQL-based
+bili	529	Sybase
+bili	525	PostgreSQL (pgsql)
+bili	533	Other network-based DBMS
+bili	526	Oracle
+bili	524	MySQL
+bili	530	Microsoft SQL Server
+bili	527	IBM DB2
+bill	524	MySQL
+billardleague	524	MySQL
+billardleague	508	SQL-based
+billardleague	505	PHP Pear::DB
+billboard	521	Flat-file
+billfrog	508	SQL-based
+billing-nexus	524	MySQL
+billing-nexus	513	Project is a network-based DBMS (database system)
+billing-nexus	501	ODBC
+billing-service	502	JDBC
+billing-service	525	PostgreSQL (pgsql)
+billinglive	508	SQL-based
+billinglive	530	Microsoft SQL Server
+billinglive	524	MySQL
+billmin	524	MySQL
+billparser	521	Flat-file
+billpayments	518	Microsoft Access
+billr	524	MySQL
+billreminder	506	Python Database API
+bim	521	Flat-file
+bina	508	SQL-based
+bina	524	MySQL
+bindbender	507	XML-based
+binder	524	MySQL
+bioacc	502	JDBC
+bioacc	524	MySQL
+bioapi	508	SQL-based
+bioapi	510	Project is a database abstraction layer (API)
+biobase	507	XML-based
+bioclipse	502	JDBC
+biodat	502	JDBC
+biodat	521	Flat-file
+biodataserver	502	JDBC
+biodataserver	521	Flat-file
+biodataserver	510	Project is a database abstraction layer (API)
+bioeval	524	MySQL
+biogrid	524	MySQL
+biohub	525	PostgreSQL (pgsql)
+biohub	506	Python Database API
+biolap	530	Microsoft SQL Server
+biolap	524	MySQL
+biolap	526	Oracle
+biomedsim	518	Microsoft Access
+biometricsdk	521	Flat-file
+biomodels	507	XML-based
+biomodels	524	MySQL
+bionet	524	MySQL
+bionote	502	JDBC
+bioorganizer	502	JDBC
+bioorganizer	524	MySQL
+biopostgres	525	PostgreSQL (pgsql)
+biopy-apps	523	Other file-based DBMS
+bioscanners	508	SQL-based
+bioscanners	521	Flat-file
+biosgrid	502	JDBC
+biosketch	524	MySQL
+biosketch	502	JDBC
+biosphere	510	Project is a database abstraction layer (API)
+biostream	523	Other file-based DBMS
+bioupdates	523	Other file-based DBMS
+biowebauth	502	JDBC
+biowebauth	524	MySQL
+birat	518	Microsoft Access
+birbal	524	MySQL
+birdblog	508	SQL-based
+birdy	532	HSQL
+bisquillagen	507	XML-based
+bitagest	508	SQL-based
+bitagest	530	Microsoft SQL Server
+bitagest	524	MySQL
+bitagest	525	PostgreSQL (pgsql)
+bitcalendar	524	MySQL
+bitcruncher	507	XML-based
+bitdig	517	Berkeley/Sleepycat/Gdbm (DBM)
+bitfire	533	Other network-based DBMS
+bitgest	531	SQLite
+bitmeta	524	MySQL
+bitmix	524	MySQL
+bitslap	507	XML-based
+bitten	506	Python Database API
+bitten	507	XML-based
+bitweaver	529	Sybase
+bitweaver	531	SQLite
+bitweaver	525	PostgreSQL (pgsql)
+bitweaver	526	Oracle
+bitweaver	524	MySQL
+bitweaver	530	Microsoft SQL Server
+bitweaver	528	Firebird/InterBase
+bitweaver	503	ADOdb
+bitz-commons	532	HSQL
+biz-chart	524	MySQL
+bizblox	508	SQL-based
+bizcom	508	SQL-based
+bizcom	524	MySQL
+bizdevelop	508	SQL-based
+biztools	524	MySQL
+biztycoon	522	Proprietary file format
+bkm2006	518	Microsoft Access
+bkps	508	SQL-based
+blackb00k	502	JDBC
+blackbeard	501	ODBC
+blackbox	524	MySQL
+blackcatcms	524	MySQL
+blackink	502	JDBC
+blackjackup	502	JDBC
+blackpaw	522	Proprietary file format
+blackpearl	525	PostgreSQL (pgsql)
+bladerunn	521	Flat-file
+bladerunn	530	Microsoft SQL Server
+bladerunn	524	MySQL
+blahtex	524	MySQL
+blanco	503	ADOdb
+blankwhitecards	524	MySQL
+blastgres	525	PostgreSQL (pgsql)
+blax	508	SQL-based
+blax	502	JDBC
+blazefilesearch	517	Berkeley/Sleepycat/Gdbm (DBM)
+blazelist	521	Flat-file
+blazerdb	503	ADOdb
+blazerdb	508	SQL-based
+bldrpal	518	Microsoft Access
+bleizi	524	MySQL
+blenderdb	508	SQL-based
+blexisma2	525	PostgreSQL (pgsql)
+blexisma2	502	JDBC
+blinkk	524	MySQL
+blis	521	Flat-file
+blitz6	507	XML-based
+blitzed	524	MySQL
+blitzjavaspaces	517	Berkeley/Sleepycat/Gdbm (DBM)
+blitzmessenger	530	Microsoft SQL Server
+blitzmessenger	524	MySQL
+blitztest	521	Flat-file
+blizzaga	502	JDBC
+blm	508	SQL-based
+blob-blog	521	Flat-file
+blobsy	524	MySQL
+blobsy	531	SQLite
+blog-creative	524	MySQL
+blog-ease	524	MySQL
+blog-machine	524	MySQL
+blog-writer	524	MySQL
+blogator-script	524	MySQL
+blogbb	524	MySQL
+blogbuddies	524	MySQL
+blogcms	531	SQLite
+blogcms	525	PostgreSQL (pgsql)
+blogcms	524	MySQL
+blogeame	505	PHP Pear::DB
+bloggeruniverse	524	MySQL
+bloggr	505	PHP Pear::DB
+bloglite	524	MySQL
+blogmail	524	MySQL
+blogmail	525	PostgreSQL (pgsql)
+blognet	525	PostgreSQL (pgsql)
+blognet	524	MySQL
+blognet	530	Microsoft SQL Server
+blognet	518	Microsoft Access
+blogologic	508	SQL-based
+blogoommer	521	Flat-file
+blogphpscript	524	MySQL
+blogpics	524	MySQL
+blogschapines	508	SQL-based
+blogschapines	524	MySQL
+blogsharp	531	SQLite
+blogstyle	530	Microsoft SQL Server
+blogsuite	524	MySQL
+blogsuy	524	MySQL
+blogthis	524	MySQL
+blogtoday	508	SQL-based
+blogtool	524	MySQL
+blogwrite	505	PHP Pear::DB
+blome	524	MySQL
+blome	505	PHP Pear::DB
+bloo	524	MySQL
+bloodbank	524	MySQL
+bloodlinetree	530	Microsoft SQL Server
+bloogee	510	Project is a database abstraction layer (API)
+bloogee	503	ADOdb
+blosxom	521	Flat-file
+blox0r	524	MySQL
+bloxx	505	PHP Pear::DB
+bloxx	524	MySQL
+bltk	521	Flat-file
+bluebery	524	MySQL
+bluebird	524	MySQL
+bluecerberus	502	JDBC
+bluedater	521	Flat-file
+bluedot	505	PHP Pear::DB
+blueerp	524	MySQL
+bluegum	508	SQL-based
+bluejaw	509	Other API
+bluejax	524	MySQL
+bluejax	508	SQL-based
+blueme	502	JDBC
+bluepath	502	JDBC
+blueprintseve	502	JDBC
+blueriver	516	Project is a relational object mapper
+bluerondo	508	SQL-based
+bluesea	505	PHP Pear::DB
+bluesea	524	MySQL
+bluesync	524	MySQL
+bluetools	524	MySQL
+bluetooth-key	502	JDBC
+bluetunes	508	SQL-based
+bluetunes	531	SQLite
+bluewar	507	XML-based
+blueware	505	PHP Pear::DB
+bluewhale	524	MySQL
+bluewhalecrm	530	Microsoft SQL Server
+bluewonder	510	Project is a database abstraction layer (API)
+bluewonder	516	Project is a relational object mapper
+bluexare	531	SQLite
+bluexare	524	MySQL
+blurb	524	MySQL
+bm-itemoi	524	MySQL
+bm-milter	517	Berkeley/Sleepycat/Gdbm (DBM)
+bm-milter	531	SQLite
+bmbrendler	530	Microsoft SQL Server
+bmbsurveymanage	524	MySQL
+bmdbfcdx	519	xBase
+bmdexpress	524	MySQL
+bmdexpress	502	JDBC
+bmforum	524	MySQL
+bmht	524	MySQL
+bmi-j2me	521	Flat-file
+bmind	524	MySQL
+bmlife	524	MySQL
+bmw	502	JDBC
+bncwi	524	MySQL
+bnm-fc	524	MySQL
+bnod	507	XML-based
+boardgameonline	502	JDBC
+boardsearch	521	Flat-file
+boardzillabbs	508	SQL-based
+boardzillabbs	524	MySQL
+bobbot	524	MySQL
+bobik	502	JDBC
+boblog	524	MySQL
+bodega	502	JDBC
+bodega	510	Project is a database abstraction layer (API)
+bodington	525	PostgreSQL (pgsql)
+bodington	524	MySQL
+bodington	530	Microsoft SQL Server
+bodington	502	JDBC
+bodo	507	XML-based
+bodr	507	XML-based
+boekenkast	502	JDBC
+boekenkast	524	MySQL
+boer	524	MySQL
+bogo	508	SQL-based
+boincmin	521	Flat-file
+boincwapstats	508	SQL-based
+bol	507	XML-based
+boletoja	502	JDBC
+bolsites	503	ADOdb
+bolsites	524	MySQL
+boltcontentman	524	MySQL
+bombermac	521	Flat-file
+bonanza	524	MySQL
+bonappetit	524	MySQL
+bonzeye	510	Project is a database abstraction layer (API)
+bonzeye	522	Proprietary file format
+bonzeye	507	XML-based
+booguu	524	MySQL
+book-timeline	505	PHP Pear::DB
+book-timeline	524	MySQL
+book-worm	518	Microsoft Access
+bookcases	524	MySQL
+bookcollectorj	502	JDBC
+bookdb	532	HSQL
+bookexchange	524	MySQL
+bookgears	528	Firebird/InterBase
+bookindex	507	XML-based
+booking	502	JDBC
+bookingapp	524	MySQL
+bookingcalendar	524	MySQL
+bookingsystem	508	SQL-based
+bookmarkext	507	XML-based
+bookmass	525	PostgreSQL (pgsql)
+bookmate	524	MySQL
+bookpatron	521	Flat-file
+bookpiles	528	Firebird/InterBase
+bookreader	507	XML-based
+books-manager	505	PHP Pear::DB
+books-manager	524	MySQL
+bookscanlib	509	Other API
+bookstore	524	MySQL
+bookwormania	502	JDBC
+bookwormania	518	Microsoft Access
+boomerangerp	502	JDBC
+boonex-dolphin	524	MySQL
+boostblog	508	SQL-based
+bootygui	525	PostgreSQL (pgsql)
+bore	524	MySQL
+boredz	524	MySQL
+borg-calendar	522	Proprietary file format
+borg-calendar	532	HSQL
+borg-calendar	524	MySQL
+boring-sudoku	514	Project is a tool for a proprietary database file format
+borknet-dev-com	524	MySQL
+bos-groupware	502	JDBC
+boss-synth	524	MySQL
+boss9000	502	JDBC
+bossdev-shop	509	Other API
+botija	507	XML-based
+botlogger	521	Flat-file
+bots	506	Python Database API
+botshark	524	MySQL
+bottleneckmngt	530	Microsoft SQL Server
+bottomline	502	JDBC
+boursowatch	507	XML-based
+boutik	505	PHP Pear::DB
+bowae	505	PHP Pear::DB
+bowae	524	MySQL
+boxedge	524	MySQL
+boxxmon	502	JDBC
+bozhiteli	524	MySQL
+bp-cms	524	MySQL
+bp2k6	507	XML-based
+bpaste	531	SQLite
+bpaste	508	SQL-based
+bpm	521	Flat-file
+bpm	531	SQLite
+bpmail	502	JDBC
+bpmanager	518	Microsoft Access
+bpmanager	530	Microsoft SQL Server
+bpmanager	525	PostgreSQL (pgsql)
+bpmdesigner	507	XML-based
+bpmspace	502	JDBC
+bpmsuiteurp	502	JDBC
+bpmsuiteurp	510	Project is a database abstraction layer (API)
+bprocessor	502	JDBC
+bqcollector	502	JDBC
+br-api	502	JDBC
+bra	521	Flat-file
+bracket-tracker	502	JDBC
+bracket-tracker	524	MySQL
+brackets	524	MySQL
+brackets	507	XML-based
+bradob	507	XML-based
+bradypus	524	MySQL
+brage-cm	524	MySQL
+braillecodes	524	MySQL
+brain-boost	508	SQL-based
+braindump	507	XML-based
+braingain	502	JDBC
+braingain	511	Project is a database management tool
+braingain	532	HSQL
+brainterrace	524	MySQL
+brandmaker	508	SQL-based
+brapster	502	JDBC
+bratsproc	531	SQLite
+brazier	525	PostgreSQL (pgsql)
+bre-revised	524	MySQL
+breakevilaxis	502	JDBC
+breeze-cms	524	MySQL
+brevus	502	JDBC
+brew-session	507	XML-based
+brewblogger	524	MySQL
+brewsta	521	Flat-file
+brewthology	524	MySQL
+brflog	508	SQL-based
+brick-cms	524	MySQL
+bright	524	MySQL
+brilliantcms	524	MySQL
+brilliantportal	503	ADOdb
+brilliantportal	524	MySQL
+brim	503	ADOdb
+brisc	507	XML-based
+briscolone	502	JDBC
+brit-thesaurus	521	Flat-file
+britney	531	SQLite
+brlcad	509	Other API
+brlcad	523	Other file-based DBMS
+broadbnd-manage	524	MySQL
+brokerj2me	521	Flat-file
+brotherjonathan	531	SQLite
+brotherjonathan	525	PostgreSQL (pgsql)
+brotherjonathan	526	Oracle
+brotherjonathan	524	MySQL
+brotherjonathan	508	SQL-based
+brotherjonathan	503	ADOdb
+brouzer	502	JDBC
+brownrpg	502	JDBC
+brownrpg	524	MySQL
+browser-windows	505	PHP Pear::DB
+brozz87	524	MySQL
+brpgtt	524	MySQL
+brrs	524	MySQL
+bs-magic	509	Other API
+bsc-rank	507	XML-based
+bsdpanel	530	Microsoft SQL Server
+bsdpanel	524	MySQL
+bshade	518	Microsoft Access
+bsheet	521	Flat-file
+bsm-crms	524	MySQL
+bsma	524	MySQL
+bsneva	524	MySQL
+bsneva	530	Microsoft SQL Server
+bspresscenter	505	PHP Pear::DB
+bspresscenter	508	SQL-based
+bspresscenter	524	MySQL
+bspro	521	Flat-file
+bsspeak	524	MySQL
+bssrp	528	Firebird/InterBase
+bsumedialibrary	524	MySQL
+bsynchronized	525	PostgreSQL (pgsql)
+bsynchronized	524	MySQL
+bt-localizer	503	ADOdb
+bt-p2p	524	MySQL
+bt3065	508	SQL-based
+bt3065	521	Flat-file
+btbot	524	MySQL
+btd	508	SQL-based
+btfilesend	523	Other file-based DBMS
+btit-tracker	524	MySQL
+btms	531	SQLite
+btms	524	MySQL
+btnet	508	SQL-based
+btnet-vs	530	Microsoft SQL Server
+btonline-btech	508	SQL-based
+btonline-btech	521	Flat-file
+btonline-btech	524	MySQL
+btonline-btech	525	PostgreSQL (pgsql)
+btonline-btech	531	SQLite
+bts-tools	525	PostgreSQL (pgsql)
+bts-tools	521	Flat-file
+btunitmanager	502	JDBC
+btunitmanager	524	MySQL
+btunitmanager	525	PostgreSQL (pgsql)
+bubbug	502	JDBC
+buckeyesp	525	PostgreSQL (pgsql)
+budabot	524	MySQL
+budabot	531	SQLite
+buddyp2p	524	MySQL
+budgetmaxx	524	MySQL
+budgetme	502	JDBC
+bueroadmin	502	JDBC
+bueroadmin	508	SQL-based
+bug-a-boo	523	Other file-based DBMS
+bugbrother	507	XML-based
+bugfree	524	MySQL
+buggbear	505	PHP Pear::DB
+buggbear	524	MySQL
+bughunt	524	MySQL
+bugit	502	JDBC
+bugkiller	530	Microsoft SQL Server
+bugonline	530	Microsoft SQL Server
+bugrdspace	524	MySQL
+bugs-bug-genie	524	MySQL
+bugsbuddy	524	MySQL
+bugsminusminus	524	MySQL
+bugsquash	508	SQL-based
+bugtracker-two	530	Microsoft SQL Server
+bugtracker-vs	530	Microsoft SQL Server
+bugtrackerpro	524	MySQL
+bugtrackerpro	508	SQL-based
+bugtracking	524	MySQL
+bugwatcher	530	Microsoft SQL Server
+bugwatcher	524	MySQL
+bugwerk	502	JDBC
+bugwerk	525	PostgreSQL (pgsql)
+bugzilla-es-cl	524	MySQL
+bugzilla-fr	504	Perl DBI/DBD
+bugzilla-pl	524	MySQL
+bugzilla-ru	504	Perl DBI/DBD
+bugzilla-rus	504	Perl DBI/DBD
+builder	501	ODBC
+builder	508	SQL-based
+builder	507	XML-based
+builder	521	Flat-file
+builder	510	Project is a database abstraction layer (API)
+builder	516	Project is a relational object mapper
+builder	514	Project is a tool for a proprietary database file format
+buildmyapplicat	501	ODBC
+bukalemun	501	ODBC
+bukmark	524	MySQL
+bulkmailer	521	Flat-file
+bumbaak	524	MySQL
+bumblebeeman	524	MySQL
+buola	508	SQL-based
+buorcrass	507	XML-based
+buoy-data	524	MySQL
+buoy2mysql	524	MySQL
+burdigala	502	JDBC
+burgerweeshuis	502	JDBC
+burn-baby	505	PHP Pear::DB
+burningstation	504	Perl DBI/DBD
+burningstation	508	SQL-based
+burningstation	524	MySQL
+burnneighbours	526	Oracle
+burnneighbours	524	MySQL
+burnneighbours	530	Microsoft SQL Server
+burnstation	524	MySQL
+burp3d	507	XML-based
+burp3d	508	SQL-based
+buscarom	521	Flat-file
+business-arena	502	JDBC
+business-arena	524	MySQL
+business-arena	525	PostgreSQL (pgsql)
+business-chain	533	Other network-based DBMS
+business-chain	509	Other API
+businesslayer	530	Microsoft SQL Server
+businessnomade	532	HSQL
+buster	503	ADOdb
+busy	502	JDBC
+busyrails	502	JDBC
+butija	504	Perl DBI/DBD
+butterflycms	524	MySQL
+butterscotch	510	Project is a database abstraction layer (API)
+buycell	506	Python Database API
+buzznova	502	JDBC
+buzzsql	502	JDBC
+buzzsql	510	Project is a database abstraction layer (API)
+bvdphoto	524	MySQL
+bvim	524	MySQL
+bwapos	517	Berkeley/Sleepycat/Gdbm (DBM)
+bwapos	531	SQLite
+bwchecker	524	MySQL
+bwmilter	509	Other API
+bwmls	524	MySQL
+bxmodeller	524	MySQL
+bxr	521	Flat-file
+byronstar-games	522	Proprietary file format
+bytekill	524	MySQL
+bytekill	508	SQL-based
+bzbyte	502	JDBC
+bzbyte	501	ODBC
+bzbzcg	509	Other API
+bzbzcg	505	PHP Pear::DB
+bzbzcg	524	MySQL
+bzbzcg	531	SQLite
+bzflag	524	MySQL
+bzk	507	XML-based
+c-cramp	524	MySQL
+c-db	508	SQL-based
+c-db	510	Project is a database abstraction layer (API)
+c-db	524	MySQL
+c-db	526	Oracle
+c-db	525	PostgreSQL (pgsql)
+c-db	531	SQLite
+c-devtesting	525	PostgreSQL (pgsql)
+c-e-t	506	Python Database API
+c-it	507	XML-based
+c-labs	508	SQL-based
+c-nema	524	MySQL
+c-xml-unittest	507	XML-based
+c128-bbs-devel	522	Proprietary file format
+c2cshop	524	MySQL
+c401dib	509	Other API
+caacms	524	MySQL
+cabal	521	Flat-file
+cabel-lib	507	XML-based
+cabie	524	MySQL
+cabin	524	MySQL
+cacertjbmf	524	MySQL
+cache	501	ODBC
+cache	508	SQL-based
+cachelog	533	Other network-based DBMS
+cacinda	524	MySQL
+cacm	524	MySQL
+cacms	502	JDBC
+cadencegb	524	MySQL
+cadencegb	508	SQL-based
+cadm	508	SQL-based
+cadm	507	XML-based
+cadmintools	518	Microsoft Access
+cadopy	524	MySQL
+cadplottool	518	Microsoft Access
+cafelord	504	Perl DBI/DBD
+cafelord	524	MySQL
+cafelord	531	SQLite
+cafesource	524	MySQL
+cafeto	502	JDBC
+cafeto	525	PostgreSQL (pgsql)
+cagcms	524	MySQL
+cagle	505	PHP Pear::DB
+cai	525	PostgreSQL (pgsql)
+cair	524	MySQL
+cairo-notes	519	xBase
+caisi	525	PostgreSQL (pgsql)
+caisi	524	MySQL
+caisi	502	JDBC
+caisis	530	Microsoft SQL Server
+cajachica	502	JDBC
+cajachica	524	MySQL
+caju-cms	502	JDBC
+cakephpcms	524	MySQL
+caksan	508	SQL-based
+calabiyo	524	MySQL
+calanda	524	MySQL
+calcorportativo	530	Microsoft SQL Server
+calculadora	521	Flat-file
+caleigo-core	502	JDBC
+calendar-script	524	MySQL
+calendarous	524	MySQL
+calendartechniq	501	ODBC
+calendartechniq	509	Other API
+calendartechniq	518	Microsoft Access
+calendartechniq	524	MySQL
+calgac	521	Flat-file
+calidad	524	MySQL
+calixto	505	PHP Pear::DB
+call-log	507	XML-based
+callen	530	Microsoft SQL Server
+calleridnotify	523	Other file-based DBMS
+calleridnotify	528	Firebird/InterBase
+callrecorder	508	SQL-based
+calltracker	502	JDBC
+calmosoft	507	XML-based
+calnique	518	Microsoft Access
+calpal	525	PostgreSQL (pgsql)
+camaro	526	Oracle
+camaro	508	SQL-based
+camaro	502	JDBC
+camaroes	524	MySQL
+camd	524	MySQL
+camel	524	MySQL
+camel-media-lib	507	XML-based
+camelogh	504	Perl DBI/DBD
+cameloth	531	SQLite
+cameloth	525	PostgreSQL (pgsql)
+cameloth	524	MySQL
+camelotnet	507	XML-based
+cammie	507	XML-based
+campaign	524	MySQL
+campaignon	524	MySQL
+campaignos	524	MySQL
+campcaster	505	PHP Pear::DB
+campcaster	525	PostgreSQL (pgsql)
+campdms	501	ODBC
+camps	502	JDBC
+campsite	524	MySQL
+campusip	502	JDBC
+campusip	509	Other API
+campusip	525	PostgreSQL (pgsql)
+campust3	524	MySQL
+camranbss	524	MySQL
+camstom	521	Flat-file
+camtracker	526	Oracle
+camtracker	524	MySQL
+camtracker	527	IBM DB2
+camtracker	502	JDBC
+can4qnx	502	JDBC
+canaveral	507	XML-based
+cancerbero	524	MySQL
+cancerbero	505	PHP Pear::DB
+cancerbero	504	Perl DBI/DBD
+candid	505	PHP Pear::DB
+candid	524	MySQL
+candideblog	531	SQLite
+candideblog	524	MySQL
+candideblog	508	SQL-based
+canine-ration	518	Microsoft Access
+cannagrower	521	Flat-file
+cannot	510	Project is a database abstraction layer (API)
+canone	524	MySQL
+canone	531	SQLite
+cantaletras	507	XML-based
+cantine	524	MySQL
+cantine	532	HSQL
+canton	524	MySQL
+cantrace	531	SQLite
+canver	524	MySQL
+canverportal	524	MySQL
+cap-help	530	Microsoft SQL Server
+capcode	502	JDBC
+capcode	501	ODBC
+capecode	508	SQL-based
+capecode	524	MySQL
+cappuccino	524	MySQL
+cappuccinomix	507	XML-based
+captchatest	523	Other file-based DBMS
+captivate	525	PostgreSQL (pgsql)
+capture-it	501	ODBC
+capture-it	524	MySQL
+carblog	520	PalmOS PDB
+carbon-network	514	Project is a tool for a proprietary database file format
+carbonado	510	Project is a database abstraction layer (API)
+carbonado	523	Other file-based DBMS
+carbonado	517	Berkeley/Sleepycat/Gdbm (DBM)
+carbonado	502	JDBC
+carbonas	502	JDBC
+carbonecar43	509	Other API
+carbonite	510	Project is a database abstraction layer (API)
+carbonite	516	Project is a relational object mapper
+carbonr	524	MySQL
+carbuncle	524	MySQL
+carcara	507	XML-based
+carcara	502	JDBC
+cardalog	504	Perl DBI/DBD
+cardalog	508	SQL-based
+cardalog	524	MySQL
+cardkeeper	503	ADOdb
+cardkiosk	508	SQL-based
+cardshark	507	XML-based
+care2002	503	ADOdb
+care2002	508	SQL-based
+care2002	507	XML-based
+careforkids	524	MySQL
+careis	501	ODBC
+careis	524	MySQL
+careplan	507	XML-based
+careplan	530	Microsoft SQL Server
+careplan	524	MySQL
+carfree	524	MySQL
+carlos	502	JDBC
+carlyle	508	SQL-based
+carolinaxmlcms	507	XML-based
+carpc	508	SQL-based
+carplayer	507	XML-based
+carpool	501	ODBC
+carrierclass	508	SQL-based
+cars	521	Flat-file
+carsharing	530	Microsoft SQL Server
+carsovu	530	Microsoft SQL Server
+cartapus	508	SQL-based
+cartapus	507	XML-based
+carte	502	JDBC
+cartier	507	XML-based
+cartopia	508	SQL-based
+cartoreso	532	HSQL
+cartoteneb	524	MySQL
+cas	508	SQL-based
+cas	525	PostgreSQL (pgsql)
+cas-ttcs	524	MySQL
+casabrasil	502	JDBC
+casapro	502	JDBC
+casapro	524	MySQL
+cascadashop	524	MySQL
+casebook	507	XML-based
+casemansoft	524	MySQL
+casetrack	509	Other API
+cash-crash	508	SQL-based
+cash-in-n-out	508	SQL-based
+cashduck	508	SQL-based
+cashduck	507	XML-based
+cashduck	524	MySQL
+cashduck	531	SQLite
+casimir	507	XML-based
+casinoblue	524	MySQL
+cassandre-qda	525	PostgreSQL (pgsql)
+cast-control	524	MySQL
+castleportal	509	Other API
+castwave	524	MySQL
+casualgamesdk	524	MySQL
+cat-2	524	MySQL
+cat-beck	524	MySQL
+cat-stats	524	MySQL
+cat4	518	Microsoft Access
+cataclysmos	524	MySQL
+catacomb	524	MySQL
+catalina	524	MySQL
+catalogador	531	SQLite
+catalogarte	524	MySQL
+catalogo	502	JDBC
+catalogo	525	PostgreSQL (pgsql)
+catalyst	510	Project is a database abstraction layer (API)
+catavento	509	Other API
+catbot	524	MySQL
+catedrax	524	MySQL
+catedrax	531	SQLite
+categorytheory	510	Project is a database abstraction layer (API)
+catelearning	502	JDBC
+catelearning	525	PostgreSQL (pgsql)
+caterina	524	MySQL
+caties	524	MySQL
+catmando	524	MySQL
+catnap-layer	502	JDBC
+catnap-layer	507	XML-based
+catnap-layer	510	Project is a database abstraction layer (API)
+catnap-layer	526	Oracle
+catterymanager	518	Microsoft Access
+catwin	524	MySQL
+caudium	525	PostgreSQL (pgsql)
+caudium	533	Other network-based DBMS
+caudium	524	MySQL
+caudium	517	Berkeley/Sleepycat/Gdbm (DBM)
+caudium	509	Other API
+cava-vssc	524	MySQL
+cavb	531	SQLite
+cavearch	502	JDBC
+cavus	525	PostgreSQL (pgsql)
+cavus	524	MySQL
+cazare	502	JDBC
+cazare	516	Project is a relational object mapper
+cba2000frontend	530	Microsoft SQL Server
+cbank	528	Firebird/InterBase
+cbchat	524	MySQL
+cbd-select	524	MySQL
+cbd-select	525	PostgreSQL (pgsql)
+cbflib	514	Project is a tool for a proprietary database file format
+cblinkwords	524	MySQL
+cblog	524	MySQL
+cblw	508	SQL-based
+cbnet	530	Microsoft SQL Server
+cbreloaded	524	MySQL
+ccandwb	524	MySQL
+ccartist	524	MySQL
+ccbs	506	Python Database API
+ccbs	525	PostgreSQL (pgsql)
+ccc-language	525	PostgreSQL (pgsql)
+ccc-language	526	Oracle
+ccc-language	524	MySQL
+ccc-language	530	Microsoft SQL Server
+ccc-language	528	Firebird/InterBase
+ccc-language	523	Other file-based DBMS
+ccc-language	508	SQL-based
+ccccms	524	MySQL
+ccccms	508	SQL-based
+ccccms	505	PHP Pear::DB
+ccg-connect	532	HSQL
+cclite	524	MySQL
+cclserver	531	SQLite
+ccm	508	SQL-based
+ccmanager	525	PostgreSQL (pgsql)
+ccmanager	524	MySQL
+ccms-ccms	524	MySQL
+ccms0	524	MySQL
+ccnetconfig	507	XML-based
+ccrdfjavalib	507	XML-based
+ccreator	510	Project is a database abstraction layer (API)
+ccreator	516	Project is a relational object mapper
+ccseo-waitlist	529	Sybase
+ccseo-waitlist	526	Oracle
+ccseo-waitlist	530	Microsoft SQL Server
+ccseo-waitlist	501	ODBC
+cctiddly	524	MySQL
+cctools	524	MySQL
+cctvdrm	524	MySQL
+ccwakka	524	MySQL
+cd-kjg	507	XML-based
+cd-kjg	521	Flat-file
+cd-zine	506	Python Database API
+cd-zine	524	MySQL
+cd-zine	525	PostgreSQL (pgsql)
+cd4viet	524	MySQL
+cdalogue	508	SQL-based
+cdap	530	Microsoft SQL Server
+cdata	524	MySQL
+cdatabase	521	Flat-file
+cdatamanager	502	JDBC
+cday	503	ADOdb
+cday	521	Flat-file
+cdbaf	526	Oracle
+cdcatalog	521	Flat-file
+cdcatfs	531	SQLite
+cdchooser	507	XML-based
+cddbase	524	MySQL
+cde-investigatr	531	SQLite
+cdeengine	510	Project is a database abstraction layer (API)
+cdf	503	ADOdb
+cdf	510	Project is a database abstraction layer (API)
+cdf	516	Project is a relational object mapper
+cdfly	531	SQLite
+cdinterface	531	SQLite
+cdinterface	503	ADOdb
+cdkeyper	503	ADOdb
+cdkeyper	518	Microsoft Access
+cdm	531	SQLite
+cdmanager	508	SQL-based
+cdmaze	531	SQLite
+cdms	521	Flat-file
+cdnavigator	502	JDBC
+cdofun	504	Perl DBI/DBD
+cds	509	Other API
+cdscluster	526	Oracle
+cdsd	531	SQLite
+cdsite	508	SQL-based
+cdsonline	524	MySQL
+cdsphp	524	MySQL
+cdstat	531	SQLite
+cebalo	502	JDBC
+cebe-webadmin	521	Flat-file
+cebe-webadmin	524	MySQL
+cebolla	516	Project is a relational object mapper
+cedrus	525	PostgreSQL (pgsql)
+ceemedia	523	Other file-based DBMS
+ceguisharp	507	XML-based
+ceim	502	JDBC
+celebgond	524	MySQL
+celebgond	521	Flat-file
+celerbb	524	MySQL
+celim	526	Oracle
+celim	524	MySQL
+celim	530	Microsoft SQL Server
+celim	527	IBM DB2
+celim	508	SQL-based
+celim	502	JDBC
+cellframework	524	MySQL
+cellframework	530	Microsoft SQL Server
+cellframework	521	Flat-file
+cellframework	508	SQL-based
+cellframework	509	Other API
+cellframework	503	ADOdb
+cellmap	508	SQL-based
+cellsim-gol	501	ODBC
+cellstorm	508	SQL-based
+celsius	525	PostgreSQL (pgsql)
+celui	522	Proprietary file format
+cem	507	XML-based
+cen-anthology	508	SQL-based
+census	523	Other file-based DBMS
+census	524	MySQL
+centarcms	524	MySQL
+central-store	525	PostgreSQL (pgsql)
+centralconfig	508	SQL-based
+centrallix	521	Flat-file
+centrallix	510	Project is a database abstraction layer (API)
+centrallix	529	Sybase
+centraview	524	MySQL
+centraview-eu	524	MySQL
+centre	502	JDBC
+centre	524	MySQL
+centre-sis	525	PostgreSQL (pgsql)
+centricware	525	PostgreSQL (pgsql)
+centricware	502	JDBC
+centris	508	SQL-based
+century	524	MySQL
+ceraan	508	SQL-based
+ceraan	507	XML-based
+ceraan	524	MySQL
+ceramic	523	Other file-based DBMS
+ceramic	524	MySQL
+cerberus	531	SQLite
+cerberus	524	MySQL
+cerberus	504	Perl DBI/DBD
+cerealmod	518	Microsoft Access
+ceres-dms	507	XML-based
+ceres-dms	524	MySQL
+ceres-dms	525	PostgreSQL (pgsql)
+cerescp	524	MySQL
+certd	521	Flat-file
+certforge	502	JDBC
+cervantes	502	JDBC
+cf-ajax-webmail	524	MySQL
+cf50pos	524	MySQL
+cfbeanwriter	502	JDBC
+cfbeanwriter	516	Project is a relational object mapper
+cfbeanwriter	530	Microsoft SQL Server
+cfirc	508	SQL-based
+cfkillboard	530	Microsoft SQL Server
+cflow	528	Firebird/InterBase
+cfml-dms	530	Microsoft SQL Server
+cfml-dms	524	MySQL
+cfopenbb	525	PostgreSQL (pgsql)
+cfopenbb	524	MySQL
+cfopenbb	530	Microsoft SQL Server
+cfopenbb	518	Microsoft Access
+cforge	524	MySQL
+cfrhino	507	XML-based
+cfsouthwest	526	Oracle
+cftrends	508	SQL-based
+cfxoops	524	MySQL
+cfxoops	530	Microsoft SQL Server
+cgb	508	SQL-based
+cgbrpg	524	MySQL
+cghjudo	524	MySQL
+cgi-dna	514	Project is a tool for a proprietary database file format
+cgicalendar	521	Flat-file
+cgidb	521	Flat-file
+cgxhope	503	ADOdb
+ch-bb	508	SQL-based
+ch3adontootmplt	524	MySQL
+ch3adontootmplt	530	Microsoft SQL Server
+ch3adontootmplt	518	Microsoft Access
+chabber	507	XML-based
+chadik	524	MySQL
+chaidb	514	Project is a tool for a proprietary database file format
+chainssh	521	Flat-file
+chainstor	524	MySQL
+chainstor	525	PostgreSQL (pgsql)
+champion-ccms	524	MySQL
+champion-ccms	521	Flat-file
+chandra	524	MySQL
+change-mgmt	504	Perl DBI/DBD
+changer5004x	501	ODBC
+changeset	524	MySQL
+changeset2-1	524	MySQL
+channel-e	524	MySQL
+channel27	524	MySQL
+channelx	524	MySQL
+channelx	508	SQL-based
+chant	524	MySQL
+chaosknight	508	SQL-based
+chaostation	518	Microsoft Access
+chaoswars	524	MySQL
+chapmaker	524	MySQL
+chapter-6	524	MySQL
+charcontrol	524	MySQL
+chargen35	512	Project is a file-based DBMS (database system)
+charoncms	524	MySQL
+charrua	507	XML-based
+chasers	513	Project is a network-based DBMS (database system)
+chasers	525	PostgreSQL (pgsql)
+chatapps	524	MySQL
+chategory	507	XML-based
+chathere	526	Oracle
+chatjax	507	XML-based
+chatlogd	507	XML-based
+chatlogd	531	SQLite
+chato	524	MySQL
+chatspot	507	XML-based
+chatspot	508	SQL-based
+chatting	527	IBM DB2
+chatwars	524	MySQL
+chaussette	505	PHP Pear::DB
+chaylak	518	Microsoft Access
+chc-rpg	524	MySQL
+check-apilitax	524	MySQL
+check4update	525	PostgreSQL (pgsql)
+checkbook	522	Proprietary file format
+checkbyphone	524	MySQL
+checkbyphone	530	Microsoft SQL Server
+checkmate	502	JDBC
+checkov	502	JDBC
+checkov	507	XML-based
+checkspam	524	MySQL
+checksys	523	Other file-based DBMS
+cheesybb	524	MySQL
+cheezer	531	SQLite
+chef	531	SQLite
+cheffeprojects	524	MySQL
+chellow	502	JDBC
+chellow	525	PostgreSQL (pgsql)
+chem-file	507	XML-based
+chemclipse	508	SQL-based
+chemeval	521	Flat-file
+chemruby	521	Flat-file
+cheques	531	SQLite
+cherbot	522	Proprietary file format
+cherbot	502	JDBC
+cherrywebmail	506	Python Database API
+cherubi	506	Python Database API
+chessaholic	509	Other API
+chessaholic	521	Flat-file
+chessclub	524	MySQL
+chessclubadmin	525	PostgreSQL (pgsql)
+chesslearning	524	MySQL
+chessweb	502	JDBC
+chevalerie	502	JDBC
+chg-manager	502	JDBC
+chg-manager	525	PostgreSQL (pgsql)
+chg-mgmt	502	JDBC
+chi	524	MySQL
+chicago1925	507	XML-based
+chickenshag2	521	Flat-file
+chicomas	524	MySQL
+chihuahua	513	Project is a network-based DBMS (database system)
+childrenofanger	524	MySQL
+chimaera	524	MySQL
+chimpy	508	SQL-based
+chimpy	507	XML-based
+chinaroller	502	JDBC
+chinchilla	509	Other API
+chinese-game	509	Other API
+chipmark	524	MySQL
+chirpy	504	Perl DBI/DBD
+chirpy	524	MySQL
+chithram	524	MySQL
+chlorineboards	525	PostgreSQL (pgsql)
+chlorineboards	533	Other network-based DBMS
+chlorineboards	524	MySQL
+chlorineboards	530	Microsoft SQL Server
+chlorineboards	527	IBM DB2
+chloroform	524	MySQL
+chm	524	MySQL
+chogabot	523	Other file-based DBMS
+choiceofsuccess	508	SQL-based
+choix-ecn	525	PostgreSQL (pgsql)
+chomp3	507	XML-based
+chorallib	507	XML-based
+chorallib	521	Flat-file
+chordinator	524	MySQL
+chordrecognizer	523	Other file-based DBMS
+chordtheory	507	XML-based
+chromeportal	533	Other network-based DBMS
+chromeportal	526	Oracle
+chromeportal	524	MySQL
+chromeportal	530	Microsoft SQL Server
+chromeportal	528	Firebird/InterBase
+chronic2005os	524	MySQL
+chronicles	506	Python Database API
+chronicles	524	MySQL
+chronos	524	MySQL
+chronotivity	507	XML-based
+chronotivity	520	PalmOS PDB
+chroonos	507	XML-based
+chrysalis-orm	516	Project is a relational object mapper
+chucho	525	PostgreSQL (pgsql)
+churchcalendar	524	MySQL
+churchcms	524	MySQL
+churchdirectory	524	MySQL
+churchinfo	513	Project is a network-based DBMS (database system)
+churchinfo	524	MySQL
+churchlib	518	Microsoft Access
+churchmis	524	MySQL
+churchoffice	524	MySQL
+churchofficemgm	508	SQL-based
+churchsoft	524	MySQL
+chutabs	524	MySQL
+ciadesktop	524	MySQL
+ciaerp	524	MySQL
+ciberkuentas2	502	JDBC
+cibertec	524	MySQL
+cic	517	Berkeley/Sleepycat/Gdbm (DBM)
+ciclopes	524	MySQL
+cico	502	JDBC
+ciel-travel	524	MySQL
+ciel-travel	508	SQL-based
+cierusrpg	524	MySQL
+cincoframe	526	Oracle
+cincoframe	525	PostgreSQL (pgsql)
+cinege	526	Oracle
+cinege	524	MySQL
+cinege	502	JDBC
+cinguwebmail	524	MySQL
+ciop	508	SQL-based
+ciop	507	XML-based
+cip	524	MySQL
+cipheradmin	503	ADOdb
+cipvir	508	SQL-based
+circlz	524	MySQL
+circuitsandbox	507	XML-based
+cire	521	Flat-file
+cirql	524	MySQL
+cisto	504	Perl DBI/DBD
+citadel	517	Berkeley/Sleepycat/Gdbm (DBM)
+cite	524	MySQL
+cite-effect	521	Flat-file
+citecrm	503	ADOdb
+citeman	524	MySQL
+citrusdb	503	ADOdb
+citybase	501	ODBC
+citybase	508	SQL-based
+citybase	520	PalmOS PDB
+citybase	524	MySQL
+citybase	533	Other network-based DBMS
+citymashup	510	Project is a database abstraction layer (API)
+cityscan	507	XML-based
+citytraffic	528	Firebird/InterBase
+civicrm	524	MySQL
+civilaction	507	XML-based
+civildefence	503	ADOdb
+civiluzation	523	Other file-based DBMS
+civs-generative	530	Microsoft SQL Server
+cix-vienna	508	SQL-based
+cjos	502	JDBC
+ck-erp	531	SQLite
+ck-erp	525	PostgreSQL (pgsql)
+ck-erp	524	MySQL
+ckiss	521	Flat-file
+ckiss	524	MySQL
+ckiss	525	PostgreSQL (pgsql)
+cks	525	PostgreSQL (pgsql)
+ckyosei	502	JDBC
+cl-rad	508	SQL-based
+claap	524	MySQL
+clamdmail	525	PostgreSQL (pgsql)
+clanadmin-tools	524	MySQL
+clanbasix	524	MySQL
+clancore	524	MySQL
+clanguru	524	MySQL
+clanlegends	524	MySQL
+clanlite	524	MySQL
+clanplan	524	MySQL
+clanrock	524	MySQL
+clanrpgengine	524	MySQL
+clansphere	531	SQLite
+clansphere	525	PostgreSQL (pgsql)
+clansphere	524	MySQL
+clansphere	530	Microsoft SQL Server
+clansuite	508	SQL-based
+clansuite	524	MySQL
+clansuite	531	SQLite
+clansystem	524	MySQL
+clanwebportal	524	MySQL
+clarolineforum	524	MySQL
+claros	502	JDBC
+clas	524	MySQL
+clash	508	SQL-based
+clash	507	XML-based
+class	524	MySQL
+class-dblink	524	MySQL
+class-simple	523	Other file-based DBMS
+classicmind	518	Microsoft Access
+classicvb	503	ADOdb
+classified-chat	518	Microsoft Access
+classifiedsmag	524	MySQL
+classmark	502	JDBC
+classvault	524	MySQL
+clawhmmer	509	Other API
+clayface	524	MySQL
+clc	530	Microsoft SQL Server
+clc	524	MySQL
+cldb	512	Project is a file-based DBMS (database system)
+cle	513	Project is a network-based DBMS (database system)
+cleanregister-0	512	Project is a file-based DBMS (database system)
+cleansqlite	531	SQLite
+clearpackage	524	MySQL
+clearsite	524	MySQL
+clearview	525	PostgreSQL (pgsql)
+cleo-3s	524	MySQL
+clever	507	XML-based
+clf2mls	515	Project is a database conversion tool
+clf2mls	524	MySQL
+clic-dms	518	Microsoft Access
+clickcount	521	Flat-file
+clickfield	524	MySQL
+clicksql	504	Perl DBI/DBD
+clicksql	524	MySQL
+client	523	Other file-based DBMS
+client-database	521	Flat-file
+client-info	524	MySQL
+client-info	521	Flat-file
+clims	524	MySQL
+cliner	531	SQLite
+cliner	525	PostgreSQL (pgsql)
+cliner	526	Oracle
+cliner	524	MySQL
+cliner	530	Microsoft SQL Server
+cliner	527	IBM DB2
+cliner	528	Firebird/InterBase
+clinicmanager	509	Other API
+clinicmanager	526	Oracle
+clinicsoft	524	MySQL
+clinicware	525	PostgreSQL (pgsql)
+clinicware	524	MySQL
+clio-knows	521	Flat-file
+clip-imp	524	MySQL
+clip-itk	509	Other API
+clip-itk	519	xBase
+clip-itk	516	Project is a relational object mapper
+clipboardtodb	502	JDBC
+clipboardtodb	524	MySQL
+clipboardtodb	526	Oracle
+clipmon32	521	Flat-file
+cliptray	509	Other API
+clish	507	XML-based
+clisp	517	Berkeley/Sleepycat/Gdbm (DBM)
+clisp	526	Oracle
+clisp	525	PostgreSQL (pgsql)
+clochardcms	525	PostgreSQL (pgsql)
+closedshop	504	Perl DBI/DBD
+closedshop	524	MySQL
+clotho	524	MySQL
+clotho	504	Perl DBI/DBD
+cloudphoto	521	Flat-file
+cloudwiki	523	Other file-based DBMS
+clouseau	530	Microsoft SQL Server
+cloveretl	502	JDBC
+cloveretl	519	xBase
+cloveretl	515	Project is a database conversion tool
+clownbike	508	SQL-based
+clownbike	525	PostgreSQL (pgsql)
+clsms	524	MySQL
+clubdb	524	MySQL
+clubezoom	524	MySQL
+clubmailerphp	521	Flat-file
+clunc	525	PostgreSQL (pgsql)
+cluster4j	521	Flat-file
+cm4sd	509	Other API
+cm4web	504	Perl DBI/DBD
+cm4web	524	MySQL
+cmailserv	524	MySQL
+cmalucelli	524	MySQL
+cmanager	518	Microsoft Access
+cmapp	524	MySQL
+cmbasic	508	SQL-based
+cmdas	503	ADOdb
+cmdtools	508	SQL-based
+cmdtools	524	MySQL
+cmip	504	Perl DBI/DBD
+cmis-ajax	524	MySQL
+cmis-ajax	530	Microsoft SQL Server
+cmis-ajax	502	JDBC
+cmmrpiidp	526	Oracle
+cmmrpiidp	525	PostgreSQL (pgsql)
+cmmrpiidp	529	Sybase
+cmnet	524	MySQL
+cmpcs	526	Oracle
+cmpcs	525	PostgreSQL (pgsql)
+cmreams	508	SQL-based
+cms-4site	524	MySQL
+cms-4site	504	Perl DBI/DBD
+cms-bandits	524	MySQL
+cms-sunengine	524	MySQL
+cms-version-2	524	MySQL
+cms100	518	Microsoft Access
+cms2rdf	524	MySQL
+cmsb	521	Flat-file
+cmsbase	502	JDBC
+cmsbase	525	PostgreSQL (pgsql)
+cmsbinarybitnet	508	SQL-based
+cmsbox	524	MySQL
+cmscout	524	MySQL
+cmsdam	524	MySQL
+cmsdam	525	PostgreSQL (pgsql)
+cmseasy	508	SQL-based
+cmsfaethon	524	MySQL
+cmsfire	524	MySQL
+cmsforme	531	SQLite
+cmsforme	525	PostgreSQL (pgsql)
+cmsforme	524	MySQL
+cmsforme	530	Microsoft SQL Server
+cmsforme	528	Firebird/InterBase
+cmsframe	524	MySQL
+cmsiki	531	SQLite
+cmsiki	525	PostgreSQL (pgsql)
+cmsiki	524	MySQL
+cmska	518	Microsoft Access
+cmska	530	Microsoft SQL Server
+cmskernel	524	MySQL
+cmslite	524	MySQL
+cmsmelborp	524	MySQL
+cmsn	508	SQL-based
+cmsnewssite	524	MySQL
+cmsonic	530	Microsoft SQL Server
+cmsource	507	XML-based
+cmsphp	527	IBM DB2
+cmsphp	530	Microsoft SQL Server
+cmsphp	524	MySQL
+cmsphp	526	Oracle
+cmsphp	525	PostgreSQL (pgsql)
+cmsplain	521	Flat-file
+cmsprayer	524	MySQL
+cmsr	524	MySQL
+cmstatic	521	Flat-file
+cmsultimate	524	MySQL
+cmsworks	524	MySQL
+cmt	510	Project is a database abstraction layer (API)
+cmysql	524	MySQL
+cmzeta	524	MySQL
+cnbya	508	SQL-based
+cnc-ftpbnc	507	XML-based
+cnc-ipflows	522	Proprietary file format
+cncms	524	MySQL
+cncsharp	507	XML-based
+cnkt	508	SQL-based
+cnkt	524	MySQL
+cnuke	530	Microsoft SQL Server
+co2bessarabov	524	MySQL
+co2portal	524	MySQL
+coaddons	524	MySQL
+coadunation	502	JDBC
+coati	524	MySQL
+cob	502	JDBC
+cob	525	PostgreSQL (pgsql)
+cobaltcms	524	MySQL
+cobcurses	517	Berkeley/Sleepycat/Gdbm (DBM)
+cobelisk	524	MySQL
+cobol-dbms	509	Other API
+cobol-dbms	510	Project is a database abstraction layer (API)
+cobol2html	531	SQLite
+cobol2j	521	Flat-file
+cobra-wiki	525	PostgreSQL (pgsql)
+cobrascript	523	Other file-based DBMS
+cobrastats	524	MySQL
+cockiptsim	525	PostgreSQL (pgsql)
+coclico	508	SQL-based
+coclico	525	PostgreSQL (pgsql)
+cocms	502	JDBC
+cocoa-report	511	Project is a database management tool
+cocoagenserver	524	MySQL
+cocoe	531	SQLite
+coconut	521	Flat-file
+coctel	524	MySQL
+coctel	525	PostgreSQL (pgsql)
+code2test	522	Proprietary file format
+codeauthors	524	MySQL
+codeauto	526	Oracle
+codeauto	530	Microsoft SQL Server
+codeauto	518	Microsoft Access
+codeauto	503	ADOdb
+codebeautifiers	507	XML-based
+codecompiler	521	Flat-file
+codecompiler	508	SQL-based
+codecompiler	501	ODBC
+codecompiler	503	ADOdb
+codeconcept	518	Microsoft Access
+codefisc	524	MySQL
+codegenerator	525	PostgreSQL (pgsql)
+codegenerator	524	MySQL
+codegenerator	530	Microsoft SQL Server
+codeignition	503	ADOdb
+codeignition	501	ODBC
+codeignition	508	SQL-based
+codeignition	524	MySQL
+codeignition	531	SQLite
+codeinsp	531	SQLite
+codejam	531	SQLite
+codejam	525	PostgreSQL (pgsql)
+codejam	526	Oracle
+codejam	530	Microsoft SQL Server
+codekb	525	PostgreSQL (pgsql)
+codelyokofusion	522	Proprietary file format
+codenamebbxp	524	MySQL
+codenamestimpy	531	SQLite
+codenamestimpy	524	MySQL
+codenote	521	Flat-file
+codeproject	509	Other API
+codepurge	501	ODBC
+coderacers	502	JDBC
+coderep	528	Firebird/InterBase
+codesh	508	SQL-based
+codeshare-addin	530	Microsoft SQL Server
+codeshield	524	MySQL
+codesnipe	501	ODBC
+codestriker	504	Perl DBI/DBD
+codetime	524	MySQL
+codewars	524	MySQL
+codewiseblog	524	MySQL
+codewiseblog	509	Other API
+codfisc	502	JDBC
+codfisc	521	Flat-file
+codfisc	532	HSQL
+codice	524	MySQL
+codix	524	MySQL
+codus	518	Microsoft Access
+codus	530	Microsoft SQL Server
+coe	508	SQL-based
+cofale	524	MySQL
+cogcasestudy	521	Flat-file
+cogitopop	523	Other file-based DBMS
+cohcovstatus	508	SQL-based
+coinchenet	507	XML-based
+cokios	502	JDBC
+colabbs	522	Proprietary file format
+colabora	524	MySQL
+colabore	503	ADOdb
+colabore	518	Microsoft Access
+colabore	530	Microsoft SQL Server
+coldblog	530	Microsoft SQL Server
+coldsync-python	520	PalmOS PDB
+coldwiki	508	SQL-based
+coldz	508	SQL-based
+coldz	524	MySQL
+colegios	524	MySQL
+colesys	530	Microsoft SQL Server
+colesys	524	MySQL
+colfi	502	JDBC
+colfi	524	MySQL
+colinbase	502	JDBC
+colis	507	XML-based
+collaborilla	510	Project is a database abstraction layer (API)
+collabwriter	508	SQL-based
+colladablender	506	Python Database API
+colle	526	Oracle
+colle	524	MySQL
+colle	530	Microsoft SQL Server
+colle	502	JDBC
+colleagueshare	523	Other file-based DBMS
+collectiondummy	507	XML-based
+collectionmgr	524	MySQL
+colocus	503	ADOdb
+colombo	524	MySQL
+colon	524	MySQL
+colon	526	Oracle
+colon	525	PostgreSQL (pgsql)
+colonyandempire	524	MySQL
+coloring	521	Flat-file
+colorstyler	524	MySQL
+colt	531	SQLite
+colt	525	PostgreSQL (pgsql)
+colt	533	Other network-based DBMS
+colt	524	MySQL
+com-med	524	MySQL
+com2net	524	MySQL
+comaneci	523	Other file-based DBMS
+comaneci	525	PostgreSQL (pgsql)
+comanthos	524	MySQL
+comap	502	JDBC
+comap	526	Oracle
+comarge	524	MySQL
+comasys-cms	524	MySQL
+comasystem	505	PHP Pear::DB
+comasystem	507	XML-based
+comasystem	524	MySQL
+combatassistant	507	XML-based
+comeet	508	SQL-based
+comeet	524	MySQL
+comendar	524	MySQL
+comicmarks	508	SQL-based
+comicmarks	505	PHP Pear::DB
+comicmaster	525	PostgreSQL (pgsql)
+comicpub	524	MySQL
+comicreader	507	XML-based
+comicx	524	MySQL
+comicx	530	Microsoft SQL Server
+comicx	518	Microsoft Access
+comikaze	503	ADOdb
+comis	526	Oracle
+comis	524	MySQL
+comis	530	Microsoft SQL Server
+comis	527	IBM DB2
+comis	502	JDBC
+comitatuswebapp	502	JDBC
+comitium	505	PHP Pear::DB
+commandweb	509	Other API
+commcrawl	521	Flat-file
+commerceobjects	508	SQL-based
+common-msg-gw	524	MySQL
+common-thoughts	524	MySQL
+commoncad	507	XML-based
+communicast	508	SQL-based
+communicast	524	MySQL
+communication-x	508	SQL-based
+communico	508	SQL-based
+communico	524	MySQL
+communik8r	525	PostgreSQL (pgsql)
+communik8r	524	MySQL
+communik8r	530	Microsoft SQL Server
+communimail	522	Proprietary file format
+communimail	524	MySQL
+community	525	PostgreSQL (pgsql)
+community-aid	508	SQL-based
+community-cms	524	MySQL
+community7	524	MySQL
+communityart	508	SQL-based
+communitycoding	524	MySQL
+communitymgr	524	MySQL
+communitynews	524	MySQL
+comodato	524	MySQL
+comon	508	SQL-based
+comparedb	524	MySQL
+comparetracks	524	MySQL
+compasdyn	524	MySQL
+compbase	522	Proprietary file format
+compbench	524	MySQL
+compbio	504	Perl DBI/DBD
+compbio	524	MySQL
+compcare	524	MySQL
+compets	524	MySQL
+compframework	501	ODBC
+comphy	503	ADOdb
+compiere	502	JDBC
+compiere	510	Project is a database abstraction layer (API)
+compiere	526	Oracle
+compiere-mfgscm	502	JDBC
+compiere-mfgscm	509	Other API
+compiere-nma	529	Sybase
+compiere-nma	526	Oracle
+compiere-nma	521	Flat-file
+compiere-portal	524	MySQL
+compiere-portal	526	Oracle
+compierebrasil	525	PostgreSQL (pgsql)
+compierecms	502	JDBC
+compieregarment	526	Oracle
+compieremonitor	502	JDBC
+compieremonitor	526	Oracle
+compierept	526	Oracle
+compinabox	525	PostgreSQL (pgsql)
+complab-sched	524	MySQL
+compleo	524	MySQL
+complit	526	Oracle
+compolis	524	MySQL
+composlite	502	JDBC
+composlite	525	PostgreSQL (pgsql)
+comppiler	510	Project is a database abstraction layer (API)
+comprepaircrm	524	MySQL
+compshop	503	ADOdb
+compsoc	524	MySQL
+comptax	506	Python Database API
+computerbreaker	507	XML-based
+computerbuilder	524	MySQL
+computerstore	524	MySQL
+computing	507	XML-based
+compwars	515	Project is a database conversion tool
+compwebchess	503	ADOdb
+compwebchess2	524	MySQL
+comrpv1	524	MySQL
+coms	524	MySQL
+comsuite	502	JDBC
+comsuite	525	PostgreSQL (pgsql)
+comvironment	524	MySQL
+comxe	502	JDBC
+comxe	526	Oracle
+con2mo	524	MySQL
+concept-a	508	SQL-based
+concert	533	Other network-based DBMS
+concertchat	502	JDBC
+concertchat	524	MySQL
+concertchat	525	PostgreSQL (pgsql)
+concisus	510	Project is a database abstraction layer (API)
+concisus	516	Project is a relational object mapper
+concordia	524	MySQL
+concordia	508	SQL-based
+condense	526	Oracle
+condense	524	MySQL
+condense	523	Other file-based DBMS
+condense	518	Microsoft Access
+condense	521	Flat-file
+condense	501	ODBC
+condiskcat	521	Flat-file
+conductor	505	PHP Pear::DB
+conduit	524	MySQL
+conecta	524	MySQL
+conecta	531	SQLite
+conex	504	Perl DBI/DBD
+conference	509	Other API
+conferenceadmin	524	MySQL
+confex	502	JDBC
+configj	502	JDBC
+configportal	504	Perl DBI/DBD
+configurabill	501	ODBC
+configurabill	526	Oracle
+configurabill	525	PostgreSQL (pgsql)
+configurize	507	XML-based
+conflux-gen	507	XML-based
+confman	525	PostgreSQL (pgsql)
+conftourney	507	XML-based
+congo	509	Other API
+congo	513	Project is a network-based DBMS (database system)
+congo	516	Project is a relational object mapper
+congo	524	MySQL
+congo	525	PostgreSQL (pgsql)
+congruency	508	SQL-based
+conjugate0021	509	Other API
+conjugator	509	Other API
+connect5d	507	XML-based
+connect5d	502	JDBC
+connview	521	Flat-file
+conquest	509	Other API
+conquest	506	Python Database API
+conquest-game	524	MySQL
+consense	509	Other API
+consense	508	SQL-based
+constrain	510	Project is a database abstraction layer (API)
+constructmanage	524	MySQL
+constructmanage	518	Microsoft Access
+constructo	524	MySQL
+cont2wiki	525	PostgreSQL (pgsql)
+cont2wiki	524	MySQL
+cont2wiki	516	Project is a relational object mapper
+cont2wiki	507	XML-based
+cont2wiki	508	SQL-based
+cont2wiki	505	PHP Pear::DB
+contactmanage	518	Microsoft Access
+contactmanager	524	MySQL
+contarte	505	PHP Pear::DB
+contaweb	524	MySQL
+contelligent	502	JDBC
+content2book	524	MySQL
+contentartist	508	SQL-based
+contentartist	524	MySQL
+contentiv	524	MySQL
+contentment	504	Perl DBI/DBD
+contentment	524	MySQL
+contentnow	503	ADOdb
+contentone	524	MySQL
+contineo	502	JDBC
+continuoustrade	502	JDBC
+continuoustrade	532	HSQL
+continuoustrade	524	MySQL
+continuoustrade	525	PostgreSQL (pgsql)
+contrack	524	MySQL
+contractml	507	XML-based
+contractsystem	507	XML-based
+controlcom	521	Flat-file
+controlpcusers	524	MySQL
+controltier	502	JDBC
+controltool	524	MySQL
+convelo	524	MySQL
+convener	508	SQL-based
+converginteract	524	MySQL
+converspace	509	Other API
+converspace	524	MySQL
+convert3gp	507	XML-based
+conveyor	502	JDBC
+cookbook	524	MySQL
+cookr	502	JDBC
+coolis	531	SQLite
+cooperate	502	JDBC
+cooperweb	533	Other network-based DBMS
+cope	526	Oracle
+cope	524	MySQL
+cope	532	HSQL
+cope	510	Project is a database abstraction layer (API)
+cope	502	JDBC
+copyme	503	ADOdb
+copyme	524	MySQL
+coras	507	XML-based
+coreasset	524	MySQL
+corebanking	524	MySQL
+corecms	524	MySQL
+corehydra	524	MySQL
+corendaldiry	524	MySQL
+corendaldocs	524	MySQL
+corendalfm	524	MySQL
+corendalfrms	524	MySQL
+corendalvvis	524	MySQL
+corendalwiki	524	MySQL
+coresar	524	MySQL
+coreteks	524	MySQL
+corinisccm	502	JDBC
+cornelios	504	Perl DBI/DBD
+corp-resource	530	Microsoft SQL Server
+corp-resource	507	XML-based
+corsaircms	524	MySQL
+corsaire	524	MySQL
+cortex-manager	515	Project is a database conversion tool
+cortex-manager	511	Project is a database management tool
+cortez	506	Python Database API
+cortez	524	MySQL
+corublkmods	524	MySQL
+cosette	524	MySQL
+cosign	524	MySQL
+cosmogonia	506	Python Database API
+cosmosrts	508	SQL-based
+coss	530	Microsoft SQL Server
+costoms	510	Project is a database abstraction layer (API)
+cosxom	521	Flat-file
+cotasktracker	507	XML-based
+cotsec	502	JDBC
+cotsec	524	MySQL
+cotsec-commons	516	Project is a relational object mapper
+counter-clan	505	PHP Pear::DB
+countercms	524	MySQL
+counterscript	524	MySQL
+countless	524	MySQL
+countryshare	502	JDBC
+coupa	524	MySQL
+coupa	531	SQLite
+coupe	507	XML-based
+couriercargo	532	HSQL
+couriervuadmin	524	MySQL
+cours-japonais	524	MySQL
+course-crawler	524	MySQL
+courseman	525	PostgreSQL (pgsql)
+coursems	524	MySQL
+coursetool	521	Flat-file
+coursor	502	JDBC
+coursor	508	SQL-based
+coursor	525	PostgreSQL (pgsql)
+covi	524	MySQL
+covide	525	PostgreSQL (pgsql)
+covide	524	MySQL
+cowdm	509	Other API
+cowdm	505	PHP Pear::DB
+cows	505	PHP Pear::DB
+coyotegris	524	MySQL
+cozza-wf	508	SQL-based
+cozza-wf	507	XML-based
+cozza-wf	524	MySQL
+cp-expend	524	MySQL
+cp-expend	505	PHP Pear::DB
+cp-imaging	521	Flat-file
+cpac	521	Flat-file
+cpac	507	XML-based
+cpac	508	SQL-based
+cpac	501	ODBC
+cpcomuni	524	MySQL
+cpengine	524	MySQL
+cpframework	524	MySQL
+cpg-contrib	524	MySQL
+cplotter	522	Proprietary file format
+cpmp	506	Python Database API
+cpo	502	JDBC
+cpo	532	HSQL
+cpo	524	MySQL
+cpo	526	Oracle
+cppdicom	524	MySQL
+cppmyadmin	508	SQL-based
+cpsmon	524	MySQL
+cpvs	524	MySQL
+cqe	506	Python Database API
+cqs	522	Proprietary file format
+cquery	521	Flat-file
+crablfs	507	XML-based
+crabmail	524	MySQL
+crackleback	523	Other file-based DBMS
+crackleback	510	Project is a database abstraction layer (API)
+crackleback	524	MySQL
+craftmachine	524	MySQL
+crashboard	524	MySQL
+cravat	506	Python Database API
+crazyfree	524	MySQL
+crazygalaxy42	524	MySQL
+crazypoker	522	Proprietary file format
+crazysoftos	509	Other API
+crblog	530	Microsoft SQL Server
+crdebug	501	ODBC
+creagame	514	Project is a tool for a proprietary database file format
+cream-crm	502	JDBC
+cream-crm	525	PostgreSQL (pgsql)
+creamchat	524	MySQL
+creasito	524	MySQL
+create-your-web	524	MySQL
+createlist-db	531	SQLite
+creativecms	522	Proprietary file format
+creativepress	524	MySQL
+creativevotesys	501	ODBC
+creativixdb	523	Other file-based DBMS
+creditapp	524	MySQL
+creditpool	524	MySQL
+creditpool	508	SQL-based
+credo	521	Flat-file
+credo	510	Project is a database abstraction layer (API)
+creovel	509	Other API
+crepuscule	524	MySQL
+crescendo	502	JDBC
+creworks	504	Perl DBI/DBD
+crfchunker	521	Flat-file
+crftagger	521	Flat-file
+criaexperimento	524	MySQL
+cricetus	524	MySQL
+crimefighter	505	PHP Pear::DB
+crimefighter	508	SQL-based
+criminalsdebug	505	PHP Pear::DB
+crlove	502	JDBC
+crm-commerce	524	MySQL
+crocoforum	524	MySQL
+crocus	502	JDBC
+cron-backup	524	MySQL
+cron-backup	508	SQL-based
+cronometer	502	JDBC
+cronometer	523	Other file-based DBMS
+cronos	511	Project is a database management tool
+cronus	508	SQL-based
+cronus	524	MySQL
+cronus-emulator	508	SQL-based
+cropsim-xml	507	XML-based
+crossmedia	507	XML-based
+crosspage	524	MySQL
+crosswise	508	SQL-based
+crosswordsaver	524	MySQL
+crossxcm	524	MySQL
+crpcapacity	502	JDBC
+crpcapacity	532	HSQL
+crpcapacity	525	PostgreSQL (pgsql)
+crpg-creator	507	XML-based
+crpgs	524	MySQL
+crrs	524	MySQL
+crsrecsys	530	Microsoft SQL Server
+crtodolist	507	XML-based
+crudtable	502	JDBC
+crust	522	Proprietary file format
+cryptic6	531	SQLite
+cryptohawk	506	Python Database API
+crystallang	524	MySQL
+crystalquartz	524	MySQL
+crystalstore	502	JDBC
+cs-dataclassgen	530	Microsoft SQL Server
+cs-dataclassgen	518	Microsoft Access
+cs-framework	501	ODBC
+cs-ode	522	Proprietary file format
+cs-openal	522	Proprietary file format
+cs-tech-asp-dev	518	Microsoft Access
+cs-tech-asp-dev	503	ADOdb
+cs3d	507	XML-based
+csadmin	524	MySQL
+csc	525	PostgreSQL (pgsql)
+cscp-ws	524	MySQL
+csdepotcrm	502	JDBC
+csdm	505	PHP Pear::DB
+csg230netflix	530	Microsoft SQL Server
+csharp-scripts	508	SQL-based
+csharp-scripts	507	XML-based
+csharp-sitemap	507	XML-based
+csharpderbyport	503	ADOdb
+csharpderbyport	502	JDBC
+csharpderbyport	512	Project is a file-based DBMS (database system)
+csharpderbyport	513	Project is a network-based DBMS (database system)
+csharpq	528	Firebird/InterBase
+csharptracker	530	Microsoft SQL Server
+cshl-olf	521	Flat-file
+cshout	521	Flat-file
+cshoutpanel	508	SQL-based
+csis	508	SQL-based
+csite2	524	MySQL
+cslocalization	530	Microsoft SQL Server
+csopf	524	MySQL
+csopf	530	Microsoft SQL Server
+csopf	528	Firebird/InterBase
+csopf	510	Project is a database abstraction layer (API)
+csopf	507	XML-based
+csphonebook	524	MySQL
+csql	512	Project is a file-based DBMS (database system)
+csr2	524	MySQL
+csror	531	SQLite
+csror	525	PostgreSQL (pgsql)
+csror	526	Oracle
+csror	524	MySQL
+csror	508	SQL-based
+css-cms	508	SQL-based
+css-editor	521	Flat-file
+css4vex	507	XML-based
+csscommerce	524	MySQL
+cssds	524	MySQL
+cssrpg	531	SQLite
+cstool	524	MySQL
+cstore	533	Other network-based DBMS
+csuite	508	SQL-based
+csuite	502	JDBC
+csulb-cal-app	521	Flat-file
+csv-mysql	524	MySQL
+csv2dia	515	Project is a database conversion tool
+csv2ldif2	515	Project is a database conversion tool
+csv2sqlite	531	SQLite
+csvdatamix	521	Flat-file
+csvdatamix	523	Other file-based DBMS
+csvdatamix	515	Project is a database conversion tool
+csvfile	521	Flat-file
+csvtomsrmsitems	508	SQL-based
+csvtrans	522	Proprietary file format
+ctenet0	505	PHP Pear::DB
+ctenet0	508	SQL-based
+ctenet0	524	MySQL
+cticket	501	ODBC
+cticket	530	Microsoft SQL Server
+cticket	524	MySQL
+ctksengine	524	MySQL
+ctlog	524	MySQL
+ctme-cvs-php	524	MySQL
+ctmessanger	524	MySQL
+ctracker	532	HSQL
+ctrlrecorder	524	MySQL
+ctsqlivr	508	SQL-based
+ctweb	524	MySQL
+cu-gis	530	Microsoft SQL Server
+cub3d	524	MySQL
+cubeb	530	Microsoft SQL Server
+cubecms	530	Microsoft SQL Server
+cubic	524	MySQL
+cubicproject	502	JDBC
+cubita	530	Microsoft SQL Server
+cubsql	513	Project is a network-based DBMS (database system)
+cubsql	533	Other network-based DBMS
+cubulus	506	Python Database API
+cuchat	508	SQL-based
+culinator	524	MySQL
+cumgha	507	XML-based
+cuny	502	JDBC
+cuon	525	PostgreSQL (pgsql)
+cupydon	524	MySQL
+curatordb	524	MySQL
+cure	502	JDBC
+curl-loader	521	Flat-file
+currex	520	PalmOS PDB
+curriculos	502	JDBC
+curupira	509	Other API
+cuteflow	524	MySQL
+cuyahoga	530	Microsoft SQL Server
+cuyahoga	524	MySQL
+cuyahoga	525	PostgreSQL (pgsql)
+cuyahogacontrib	530	Microsoft SQL Server
+cuyahogacontrib	524	MySQL
+cuyahogacontrib	525	PostgreSQL (pgsql)
+cve	501	ODBC
+cvista	530	Microsoft SQL Server
+cvista	524	MySQL
+cvk	518	Microsoft Access
+cvs4me	524	MySQL
+cvsbugz	524	MySQL
+cvscmd	507	XML-based
+cvscript	508	SQL-based
+cvscript	524	MySQL
+cvshist	524	MySQL
+cvsrepository	502	JDBC
+cw-catalog	509	Other API
+cwlib	524	MySQL
+cworktime	521	Flat-file
+cwslinkexchange	524	MySQL
+cwxstat	524	MySQL
+cwxstat	531	SQLite
+cxbrowser	507	XML-based
+cya	524	MySQL
+cyacover	531	SQLite
+cybera	518	Microsoft Access
+cyberbabel	502	JDBC
+cyberbb	524	MySQL
+cyberexplorer	508	SQL-based
+cyberia-cafe-mb	524	MySQL
+cyberphp	505	PHP Pear::DB
+cyberphp	524	MySQL
+cybery-knows	524	MySQL
+cycad	521	Flat-file
+cyclone3	504	Perl DBI/DBD
+cyclone3	524	MySQL
+cyclone3	526	Oracle
+cyclosoft	502	JDBC
+cylix-mdmt	524	MySQL
+cyllene	501	ODBC
+cyllene	530	Microsoft SQL Server
+cyllene	524	MySQL
+cynia	521	Flat-file
+cyportal	508	SQL-based
+cyportal	524	MySQL
+cyrapid	509	Other API
+cyrup	525	PostgreSQL (pgsql)
+cyrup	524	MySQL
+cyruswebadmin	524	MySQL
+cyvis	521	Flat-file
+czajernia	524	MySQL
+czechcms	502	JDBC
+czww	521	Flat-file
+d-e-b-t-s	524	MySQL
+d-e-s	524	MySQL
+d-e-s	530	Microsoft SQL Server
+d-e-s	518	Microsoft Access
+d-e-s	503	ADOdb
+d-mapper	502	JDBC
+d-wishlist	524	MySQL
+d-wishlist	507	XML-based
+d-wishlist	508	SQL-based
+d20battle	507	XML-based
+d20cm	502	JDBC
+d20database	530	Microsoft SQL Server
+d20sharp	521	Flat-file
+d20sharp	507	XML-based
+d20tools	521	Flat-file
+d20tools	518	Microsoft Access
+d20tools	524	MySQL
+d2rq-map	502	JDBC
+d2scem	522	Proprietary file format
+d2vreports	525	PostgreSQL (pgsql)
+d2vreports	533	Other network-based DBMS
+d2vreports	524	MySQL
+d2vreports	530	Microsoft SQL Server
+d2vreports	518	Microsoft Access
+d2vreports	509	Other API
+d2vreports	501	ODBC
+d3web	507	XML-based
+d5-2	507	XML-based
+da-com	524	MySQL
+da2gallery	502	JDBC
+da2gallery	524	MySQL
+dabasy	521	Flat-file
+dabaxs	524	MySQL
+dabcos	511	Project is a database management tool
+dabcos	530	Microsoft SQL Server
+dacapo	508	SQL-based
+dacbd	502	JDBC
+dacdataaccesshe	503	ADOdb
+dacdataaccesshe	518	Microsoft Access
+dacdataaccesshe	530	Microsoft SQL Server
+dacfr	507	XML-based
+dacfr	510	Project is a database abstraction layer (API)
+dachunqiu	507	XML-based
+dacloghelper	503	ADOdb
+dacloghelper	521	Flat-file
+dacormapping	503	ADOdb
+dacormapping	518	Microsoft Access
+dacormapping	530	Microsoft SQL Server
+dadabik	503	ADOdb
+dados-p	502	JDBC
+dados-p	524	MySQL
+dados-survey	524	MySQL
+dados-survey	502	JDBC
+daemonscript	521	Flat-file
+daemonx	524	MySQL
+daffodilcrm	502	JDBC
+daffodildb	502	JDBC
+daffodildb	501	ODBC
+daffodildb	505	PHP Pear::DB
+daffodilreplica	502	JDBC
+dafne	524	MySQL
+daft	501	ODBC
+dafunspirit	524	MySQL
+dagfs	506	Python Database API
+dagfs	525	PostgreSQL (pgsql)
+dagger	524	MySQL
+dai	504	Perl DBI/DBD
+dai	524	MySQL
+dailyplanner	524	MySQL
+daisy	525	PostgreSQL (pgsql)
+daisy	526	Oracle
+daisy	524	MySQL
+daisy	502	JDBC
+daisycms	502	JDBC
+daisycms	524	MySQL
+daisyplayer	507	XML-based
+damafra	524	MySQL
+damilestracker	502	JDBC
+damilestracker	524	MySQL
+damn-small-cms	521	Flat-file
+damnian	508	SQL-based
+damocles	507	XML-based
+damonkey	530	Microsoft SQL Server
+damserver	502	JDBC
+damserver	524	MySQL
+damud	507	XML-based
+damud	524	MySQL
+danatomy	502	JDBC
+dancebox	531	SQLite
+dandi-dms	502	JDBC
+dangotalk	510	Project is a database abstraction layer (API)
+danielboone	524	MySQL
+danphpsupport	524	MySQL
+dantar	524	MySQL
+dao4php	524	MySQL
+daocreator	502	JDBC
+daomedge	510	Project is a database abstraction layer (API)
+daophp5	509	Other API
+daoxgen	502	JDBC
+daqalyzer	502	JDBC
+daqalyzer	524	MySQL
+darc-online	504	Perl DBI/DBD
+dark-age	524	MySQL
+dark-side	521	Flat-file
+darkageofkrel	524	MySQL
+darkboltcp	503	ADOdb
+darkboltcp	524	MySQL
+darkcrow	524	MySQL
+darkdestiny	502	JDBC
+darkdestiny	524	MySQL
+darkestdaypl	503	ADOdb
+darkevent	524	MySQL
+darkhart	524	MySQL
+darkmatrix	508	SQL-based
+darksword	524	MySQL
+darodesigns	524	MySQL
+dartagnan	502	JDBC
+dartagnan	507	XML-based
+dartbase	524	MySQL
+darwin-test	518	Microsoft Access
+dasblogce	507	XML-based
+daschau	524	MySQL
+daschau1	524	MySQL
+daserver	530	Microsoft SQL Server
+daserver	508	SQL-based
+daserver	501	ODBC
+dashcode	506	Python Database API
+dashcode	508	SQL-based
+daslinuxrfc3484	523	Other file-based DBMS
+data-analyzer	518	Microsoft Access
+data-pump	515	Project is a database conversion tool
+data-pump	522	Proprietary file format
+data-pump	521	Flat-file
+data-pump	507	XML-based
+data-pump	509	Other API
+data-pump	502	JDBC
+data-showtable	515	Project is a database conversion tool
+data-showtable	514	Project is a tool for a proprietary database file format
+dataaide	530	Microsoft SQL Server
+dataapp	533	Other network-based DBMS
+dataapp	524	MySQL
+dataapp	510	Project is a database abstraction layer (API)
+dataapp	508	SQL-based
+dataapp	504	Perl DBI/DBD
+database-viewer	533	Other network-based DBMS
+database-viewer	524	MySQL
+database-viewer	511	Project is a database management tool
+database-viewer	508	SQL-based
+database-viewer	502	JDBC
+databasebrowser	502	JDBC
+databasejface	529	Sybase
+databasejface	526	Oracle
+databasejface	524	MySQL
+databasejface	530	Microsoft SQL Server
+databaseloader	502	JDBC
+datacenter-tool	521	Flat-file
+datacentercoop	525	PostgreSQL (pgsql)
+datacrow	508	SQL-based
+dataexpert	508	SQL-based
+dataexpert	525	PostgreSQL (pgsql)
+dataextractor	507	XML-based
+dataflow	530	Microsoft SQL Server
+dataflow	524	MySQL
+dataflow	525	PostgreSQL (pgsql)
+datafloworm	516	Project is a relational object mapper
+datafountains	508	SQL-based
+datagenerator	531	SQLite
+datagenerator	525	PostgreSQL (pgsql)
+datagenerator	526	Oracle
+datagenerator	524	MySQL
+datagenerator	530	Microsoft SQL Server
+datagenerator	528	Firebird/InterBase
+datagenerator	503	ADOdb
+datagrapher	504	Perl DBI/DBD
+datagrapher	524	MySQL
+dataharvester	518	Microsoft Access
+datahaul	524	MySQL
+datahaul	530	Microsoft SQL Server
+datahaul	513	Project is a network-based DBMS (database system)
+datahaul	501	ODBC
+datahaul	502	JDBC
+dataholder	510	Project is a database abstraction layer (API)
+dataholder	516	Project is a relational object mapper
+dataholder	530	Microsoft SQL Server
+datahub	502	JDBC
+datajukebox	502	JDBC
+datalayer	525	PostgreSQL (pgsql)
+datalayer	524	MySQL
+datalayer	530	Microsoft SQL Server
+datalayer	516	Project is a relational object mapper
+datalayer	510	Project is a database abstraction layer (API)
+datalg	518	Microsoft Access
+datalg	516	Project is a relational object mapper
+datalg	530	Microsoft SQL Server
+datalg	524	MySQL
+datalinks	501	ODBC
+dataloader	502	JDBC
+datalus	524	MySQL
+datalus	508	SQL-based
+datama	508	SQL-based
+datama	507	XML-based
+datama	510	Project is a database abstraction layer (API)
+datama	516	Project is a relational object mapper
+datamanager	528	Firebird/InterBase
+datamaster	502	JDBC
+dataminer01	502	JDBC
+datamininggrid	509	Other API
+datanasos	507	XML-based
+dataparser	506	Python Database API
+datapture	510	Project is a database abstraction layer (API)
+datapture	524	MySQL
+datapture	525	PostgreSQL (pgsql)
+dataquality	502	JDBC
+dataquicker	516	Project is a relational object mapper
+datascythe	524	MySQL
+datasink	502	JDBC
+datasink	519	xBase
+datastream	513	Project is a network-based DBMS (database system)
+datastructures	508	SQL-based
+datasynch	507	XML-based
+datatest	502	JDBC
+datawarehouse	502	JDBC
+datawarehouse	510	Project is a database abstraction layer (API)
+datawarehouse	515	Project is a database conversion tool
+datazoomer	524	MySQL
+datcoll	530	Microsoft SQL Server
+dating	524	MySQL
+datingonjsf	526	Oracle
+datingonjsf	502	JDBC
+datingscript	524	MySQL
+davarlearn	507	XML-based
+daw-tool	507	XML-based
+daw-tool	524	MySQL
+dawanlook	507	XML-based
+daytanea	525	PostgreSQL (pgsql)
+daytraderbeans	524	MySQL
+daywatch	521	Flat-file
+db-connection	502	JDBC
+db-db	502	JDBC
+db-db	526	Oracle
+db-model-excel	530	Microsoft SQL Server
+db-obj-builder	502	JDBC
+db-rse	524	MySQL
+db-skeleton	502	JDBC
+db-squid	510	Project is a database abstraction layer (API)
+db-xplorer	502	JDBC
+db12	525	PostgreSQL (pgsql)
+db2-jmin	502	JDBC
+db2-jmin	528	Firebird/InterBase
+db2-jmin	527	IBM DB2
+db2-jmin	524	MySQL
+db2-jmin	526	Oracle
+db2-jmin	525	PostgreSQL (pgsql)
+db2dot	502	JDBC
+db2jspgen	524	MySQL
+db2jspgen	516	Project is a relational object mapper
+db2jspgen	502	JDBC
+db2mon	527	IBM DB2
+db2viewer	527	IBM DB2
+db2webforms	502	JDBC
+db3003c	508	SQL-based
+db4o	509	Other API
+db4o	522	Proprietary file format
+db4o	512	Project is a file-based DBMS (database system)
+db4oif	510	Project is a database abstraction layer (API)
+db4oxtea	523	Other file-based DBMS
+dbadaniel	526	Oracle
+dbadmin	511	Project is a database management tool
+dbadministrator	511	Project is a database management tool
+dbadministrator	524	MySQL
+dbag	505	PHP Pear::DB
+dbag	516	Project is a relational object mapper
+dbag	524	MySQL
+dbag	526	Oracle
+dbag	525	PostgreSQL (pgsql)
+dbagen	524	MySQL
+dbajax	524	MySQL
+dbapipe	521	Flat-file
+dbapipe	520	PalmOS PDB
+dbasedriver	509	Other API
+dbasedriver	519	xBase
+dbasedriver	514	Project is a tool for a proprietary database file format
+dbasenetdatprov	512	Project is a file-based DBMS (database system)
+dbasenetdatprov	511	Project is a database management tool
+dbasenetdatprov	515	Project is a database conversion tool
+dbasenetdatprov	510	Project is a database abstraction layer (API)
+dbasenetdatprov	521	Flat-file
+dbashell	526	Oracle
+dbatsol	502	JDBC
+dbbackup	524	MySQL
+dbbiene	502	JDBC
+dbcache	502	JDBC
+dbcache	510	Project is a database abstraction layer (API)
+dbcg	528	Firebird/InterBase
+dbchecker	530	Microsoft SQL Server
+dbchecker	515	Project is a database conversion tool
+dbchecker	503	ADOdb
+dbclass	505	PHP Pear::DB
+dbclientxxx	532	HSQL
+dbcoat	529	Sybase
+dbcoat	525	PostgreSQL (pgsql)
+dbcoat	526	Oracle
+dbcoat	524	MySQL
+dbcoat	530	Microsoft SQL Server
+dbcoat	527	IBM DB2
+dbcoat	516	Project is a relational object mapper
+dbcoat	502	JDBC
+dbconverter	525	PostgreSQL (pgsql)
+dbconverter	526	Oracle
+dbconverter	524	MySQL
+dbconverter	518	Microsoft Access
+dbcopyplugin	502	JDBC
+dbcp	508	SQL-based
+dbcri	524	MySQL
+dbcvt	515	Project is a database conversion tool
+dbcvt	502	JDBC
+dbdeploy	526	Oracle
+dbdesigner-fork	525	PostgreSQL (pgsql)
+dbdesigner-fork	526	Oracle
+dbdesigner-fork	524	MySQL
+dbdesigner-fork	530	Microsoft SQL Server
+dbdesigner-fork	528	Firebird/InterBase
+dbduplicate	530	Microsoft SQL Server
+dbedit2	526	Oracle
+dbedit2	524	MySQL
+dbedit2	527	IBM DB2
+dbedit2	532	HSQL
+dbedit2	502	JDBC
+dbentity	524	MySQL
+dbestudio	508	SQL-based
+dbestudio	507	XML-based
+dbestudio	517	Berkeley/Sleepycat/Gdbm (DBM)
+dbexplorer	529	Sybase
+dbexplorer	531	SQLite
+dbexplorer	525	PostgreSQL (pgsql)
+dbexplorer	526	Oracle
+dbexplorer	524	MySQL
+dbexplorer	530	Microsoft SQL Server
+dbexplorer	503	ADOdb
+dbeye	506	Python Database API
+dbf2ora	526	Oracle
+dbfarmer	511	Project is a database management tool
+dbfarmer	515	Project is a database conversion tool
+dbfdesktop	511	Project is a database management tool
+dbfeeder	504	Perl DBI/DBD
+dbfit	501	ODBC
+dbfit	502	JDBC
+dbflay	506	Python Database API
+dbflowc	524	MySQL
+dbflowc	526	Oracle
+dbflowc	525	PostgreSQL (pgsql)
+dbfman	519	xBase
+dbfpy	519	xBase
+dbfree	511	Project is a database management tool
+dbfree	501	ODBC
+dbfree	502	JDBC
+dbgem	501	ODBC
+dbgem	504	Perl DBI/DBD
+dbgem	530	Microsoft SQL Server
+dbgem	526	Oracle
+dbgem	529	Sybase
+dbgl	532	HSQL
+dbguardian	502	JDBC
+dbguardian	526	Oracle
+dbhcms	524	MySQL
+dbhistoric	502	JDBC
+dbhub	521	Flat-file
+dbi4php	510	Project is a database abstraction layer (API)
+dbinitiator	503	ADOdb
+dbinterface	524	MySQL
+dbipp	510	Project is a database abstraction layer (API)
+dbiq	506	Python Database API
+dbiq	510	Project is a database abstraction layer (API)
+dbisolde	525	PostgreSQL (pgsql)
+dbiwrapper	510	Project is a database abstraction layer (API)
+dbix-xmlserver	504	Perl DBI/DBD
+dbjam	524	MySQL
+dbjforum	524	MySQL
+dbl-browser	514	Project is a tool for a proprietary database file format
+dblatexreport	524	MySQL
+dblatexreport	526	Oracle
+dblatexreport	533	Other network-based DBMS
+dblatexreport	525	PostgreSQL (pgsql)
+dblatexreport	531	SQLite
+dblatexreport	529	Sybase
+dblatexreport	530	Microsoft SQL Server
+dblatexreport	527	IBM DB2
+dblatexreport	523	Other file-based DBMS
+dblatexreport	518	Microsoft Access
+dblatexreport	521	Flat-file
+dblatexreport	517	Berkeley/Sleepycat/Gdbm (DBM)
+dblatexreport	501	ODBC
+dblatexreport	502	JDBC
+dblectric	502	JDBC
+dblectric	508	SQL-based
+dblink-odbc	525	PostgreSQL (pgsql)
+dblog	503	ADOdb
+dblog	501	ODBC
+dblucene	502	JDBC
+dblue	509	Other API
+dbmail	524	MySQL
+dbmail	525	PostgreSQL (pgsql)
+dbmap	524	MySQL
+dbmask	524	MySQL
+dbmask	509	Other API
+dbmigrator	502	JDBC
+dbmonio	526	Oracle
+dbmstools	525	PostgreSQL (pgsql)
+dbmstools	526	Oracle
+dbmstools	524	MySQL
+dbmstools	530	Microsoft SQL Server
+dbmstools	532	HSQL
+dbnormtool	516	Project is a relational object mapper
+dbnotifier	529	Sybase
+dbnotifier	524	MySQL
+dbnotifier	530	Microsoft SQL Server
+dbnotifier	502	JDBC
+dbobj	510	Project is a database abstraction layer (API)
+dbobj	516	Project is a relational object mapper
+dbobj	525	PostgreSQL (pgsql)
+dbp	530	Microsoft SQL Server
+dbpaq	533	Other network-based DBMS
+dbpaq	526	Oracle
+dbpaq	513	Project is a network-based DBMS (database system)
+dbpaq	511	Project is a database management tool
+dbpaq	508	SQL-based
+dbpaq	501	ODBC
+dbpopulator	502	JDBC
+dbpowder	516	Project is a relational object mapper
+dbpowder	502	JDBC
+dbprofiler	502	JDBC
+dbquicklaunch	530	Microsoft SQL Server
+dbrelationviewr	530	Microsoft SQL Server
+dbrelationviewr	526	Oracle
+dbrevision	511	Project is a database management tool
+dbrevision	515	Project is a database conversion tool
+dbrevision	502	JDBC
+dbrig	530	Microsoft SQL Server
+dbrowser	524	MySQL
+dbrowser	525	PostgreSQL (pgsql)
+dbs	522	Proprietary file format
+dbs	524	MySQL
+dbschemaviewer	525	PostgreSQL (pgsql)
+dbschemaviewer	524	MySQL
+dbschemaviewer	528	Firebird/InterBase
+dbschemaviewer	502	JDBC
+dbschool	502	JDBC
+dbschools	502	JDBC
+dbschools	524	MySQL
+dbschools	525	PostgreSQL (pgsql)
+dbscript	516	Project is a relational object mapper
+dbscript	510	Project is a database abstraction layer (API)
+dbscript	508	SQL-based
+dbsearcbugzilla	502	JDBC
+dbsframework	524	MySQL
+dbsql2xml	502	JDBC
+dbtdestroyer	501	ODBC
+dbtestcase	502	JDBC
+dbtime	522	Proprietary file format
+dbtomswiki	526	Oracle
+dbtomswiki	524	MySQL
+dbtomswiki	530	Microsoft SQL Server
+dbtomswiki	528	Firebird/InterBase
+dbtomswiki	508	SQL-based
+dbtool	529	Sybase
+dbtool	526	Oracle
+dbtool	530	Microsoft SQL Server
+dbtool	518	Microsoft Access
+dbtool	507	XML-based
+dbtreetravclass	508	SQL-based
+dbtrucoscms	524	MySQL
+dbupdatetracker	524	MySQL
+dbuploader	502	JDBC
+dbutil	502	JDBC
+dbutil	511	Project is a database management tool
+dbutil	527	IBM DB2
+dbutil	530	Microsoft SQL Server
+dbutil	524	MySQL
+dbutil	526	Oracle
+dbutil	525	PostgreSQL (pgsql)
+dbutil	529	Sybase
+dbutils	502	JDBC
+dbversion	502	JDBC
+dbvisualizer	509	Other API
+dbvsdb	515	Project is a database conversion tool
+dbvsdb	511	Project is a database management tool
+dbvsdb	524	MySQL
+dbwrapper	524	MySQL
+dbwrapper	530	Microsoft SQL Server
+dbwrapper	518	Microsoft Access
+dbwrapper	501	ODBC
+dbwtk	525	PostgreSQL (pgsql)
+dbwtk	524	MySQL
+dbwtk	511	Project is a database management tool
+dbwtk	504	Perl DBI/DBD
+dbxquery	526	Oracle
+dbxquery	524	MySQL
+dbxquery	530	Microsoft SQL Server
+dbxquery	527	IBM DB2
+dbxquery	532	HSQL
+dbxquery	528	Firebird/InterBase
+dbxquery	515	Project is a database conversion tool
+dbxquery	507	XML-based
+dbxquery	508	SQL-based
+dbxquery	502	JDBC
+dbxwebapp	505	PHP Pear::DB
+dc2-dev	524	MySQL
+dc4db	524	MySQL
+dcasnet	526	Oracle
+dcasnet	508	SQL-based
+dcasnet	503	ADOdb
+dcbotservice	507	XML-based
+dccss	525	PostgreSQL (pgsql)
+dcdesigner	507	XML-based
+dcent	524	MySQL
+dcheroes	532	HSQL
+dches	521	Flat-file
+dciphermail	502	JDBC
+dciphermail	524	MySQL
+dckinstaller	507	XML-based
+dclp	524	MySQL
+dcmsee	518	Microsoft Access
+dcmtrainer	518	Microsoft Access
+dcon	502	JDBC
+dconfig	502	JDBC
+dconfig	532	HSQL
+dconfig	530	Microsoft SQL Server
+dconfig	524	MySQL
+dconfig	526	Oracle
+dconfig	533	Other network-based DBMS
+dconfig	525	PostgreSQL (pgsql)
+dcore	508	SQL-based
+dcpp	501	ODBC
+dcr	524	MySQL
+dcrteam	508	SQL-based
+dcs10-96	524	MySQL
+dcsb	509	Other API
+dcskbs	521	Flat-file
+dcskbs	525	PostgreSQL (pgsql)
+dctm	508	SQL-based
+dctm	511	Project is a database management tool
+dctmcmd	509	Other API
+ddbfs	508	SQL-based
+ddbot	521	Flat-file
+ddccontrol	507	XML-based
+ddgp	524	MySQL
+ddljen	502	JDBC
+ddnsbl	521	Flat-file
+ddunit	521	Flat-file
+ddunit	530	Microsoft SQL Server
+ddunit	526	Oracle
+ddwbbacsm	525	PostgreSQL (pgsql)
+de-allybot	524	MySQL
+deadsimple	508	SQL-based
+deadsoulrpg	528	Firebird/InterBase
+dealersys	525	PostgreSQL (pgsql)
+deanna	503	ADOdb
+debatable	502	JDBC
+debate-ie-timer	520	PalmOS PDB
+debiance	525	PostgreSQL (pgsql)
+debommender	502	JDBC
+debto	506	Python Database API
+debtoo	521	Flat-file
+debuxxe	507	XML-based
+decider	524	MySQL
+decigen	504	Perl DBI/DBD
+decigen	524	MySQL
+deck	521	Flat-file
+deck	531	SQLite
+deckard	511	Project is a database management tool
+declara	531	SQLite
+decnet	524	MySQL
+dedicheck	524	MySQL
+dedupe	508	SQL-based
+dedupe	521	Flat-file
+dedupe	518	Microsoft Access
+deebee	512	Project is a file-based DBMS (database system)
+deegdk	502	JDBC
+deegdk	508	SQL-based
+deegdk	507	XML-based
+deeparc	515	Project is a database conversion tool
+deepdiver	518	Microsoft Access
+deepemailminer	502	JDBC
+deephelpdesk	530	Microsoft SQL Server
+deepseaoffice	530	Microsoft SQL Server
+deepwood	531	SQLite
+deface-no-tnx	521	Flat-file
+defangadmin	524	MySQL
+defaultrps	524	MySQL
+defensor	525	PostgreSQL (pgsql)
+degamed	521	Flat-file
+degu	524	MySQL
+dehesa	509	Other API
+deimoscp	524	MySQL
+dejavue	508	SQL-based
+dekiwiki	524	MySQL
+dekware	501	ODBC
+dekware	524	MySQL
+delaware	508	SQL-based
+delfos	514	Project is a tool for a proprietary database file format
+deliminateddata	524	MySQL
+delphi	505	PHP Pear::DB
+delphi-db-or	501	ODBC
+delphi-db-or	516	Project is a relational object mapper
+delphi-db-or	524	MySQL
+delphi-db-or	531	SQLite
+delphigoogle	522	Proprietary file format
+delphorm	502	JDBC
+delphorm	525	PostgreSQL (pgsql)
+delta-boards	524	MySQL
+deltaclone	507	XML-based
+deltamp	524	MySQL
+deltastream	507	XML-based
+deltastream	522	Proprietary file format
+dem-erp	506	Python Database API
+dem-erp	508	SQL-based
+dem-erp	524	MySQL
+dem-erp	525	PostgreSQL (pgsql)
+dem-erp	531	SQLite
+demet-edunet	524	MySQL
+demetrius	502	JDBC
+demichef	525	PostgreSQL (pgsql)
+demilink	510	Project is a database abstraction layer (API)
+demlinks	517	Berkeley/Sleepycat/Gdbm (DBM)
+demlinks	531	SQLite
+democracynow	524	MySQL
+demoguardfree	504	Perl DBI/DBD
+demoguardfree	518	Microsoft Access
+demoguardfree	524	MySQL
+dendron	506	Python Database API
+denialflickr	524	MySQL
+denisling	502	JDBC
+denora	524	MySQL
+denzosoft	502	JDBC
+deogeneration	524	MySQL
+depot	507	XML-based
+depot-demo	524	MySQL
+derby-gui-tools	502	JDBC
+derbymatic	524	MySQL
+dereditor	511	Project is a database management tool
+dereditor	516	Project is a relational object mapper
+derivaquant	525	PostgreSQL (pgsql)
+derpy	503	ADOdb
+descafeinadox	507	XML-based
+descry	508	SQL-based
+desert-tankwars	502	JDBC
+desertwars	526	Oracle
+designerpro	524	MySQL
+desikazaa	521	Flat-file
+desivibes	521	Flat-file
+deskmessage	522	Proprietary file format
+desko	508	SQL-based
+deskor	524	MySQL
+desktopcontacts	507	XML-based
+deskweb	524	MySQL
+desoo	525	PostgreSQL (pgsql)
+desoo	526	Oracle
+desoo	524	MySQL
+desoo	530	Microsoft SQL Server
+desoo	527	IBM DB2
+destinatenews	524	MySQL
+destinyemu	524	MySQL
+desudex	517	Berkeley/Sleepycat/Gdbm (DBM)
+detailaddress	521	Flat-file
+detodkp	508	SQL-based
+dev-openphpnuke	531	SQLite
+dev-openphpnuke	525	PostgreSQL (pgsql)
+dev-openphpnuke	524	MySQL
+dev-openphpnuke	530	Microsoft SQL Server
+dev-openphpnuke	528	Firebird/InterBase
+dev-paypal-cart	524	MySQL
+developcave	508	SQL-based
+device-def-lib	530	Microsoft SQL Server
+deviceadmin	524	MySQL
+deviki	506	Python Database API
+deviki	508	SQL-based
+deviki	524	MySQL
+devildotnet	522	Proprietary file format
+devilrob	524	MySQL
+devisa	507	XML-based
+devolution	524	MySQL
+devoroclassik	519	xBase
+devosc	524	MySQL
+devpg-wordpress	524	MySQL
+devstack	504	Perl DBI/DBD
+devstack	524	MySQL
+devteams	524	MySQL
+devware	526	Oracle
+devware	530	Microsoft SQL Server
+devware	507	XML-based
+dexearch	531	SQLite
+dfdaemon	524	MySQL
+dfdcart	508	SQL-based
+dfo	505	PHP Pear::DB
+dfo	506	Python Database API
+dfoto	508	SQL-based
+dfreader	528	Firebird/InterBase
+dfriends	524	MySQL
+dfssolution	526	Oracle
+dfwiki	524	MySQL
+dfwiki	525	PostgreSQL (pgsql)
+dgbookreview	508	SQL-based
+dgloganalyser	503	ADOdb
+dgloganalyser	524	MySQL
+dgnews	524	MySQL
+dhadmin	522	Proprietary file format
+dharma-netcafe	508	SQL-based
+dhcpleasesmysql	524	MySQL
+dhcpsql	508	SQL-based
+dhcpsql	524	MySQL
+dhcpv6-tr	521	Flat-file
+dhis	508	SQL-based
+diaanpro	524	MySQL
+diabetesdiary	524	MySQL
+diakonos	503	ADOdb
+dialog	530	Microsoft SQL Server
+dialog	526	Oracle
+diamandos	501	ODBC
+diamondm2server	518	Microsoft Access
+diamondsearch2d	507	XML-based
+dianti	528	Firebird/InterBase
+diarusie	508	SQL-based
+diary-service	502	JDBC
+diaz	502	JDBC
+dib	512	Project is a file-based DBMS (database system)
+dicom4j	502	JDBC
+dicomemail-test	531	SQLite
+dict-system	524	MySQL
+dictionary-bg	526	Oracle
+dictionarymid	521	Flat-file
+dictionaryqt4	508	SQL-based
+dictserv	502	JDBC
+dictserv	509	Other API
+dictserv	508	SQL-based
+didac	508	SQL-based
+didac	524	MySQL
+didac	525	PostgreSQL (pgsql)
+didactor	502	JDBC
+didaskon	509	Other API
+didily	525	PostgreSQL (pgsql)
+didma	508	SQL-based
+diee-mad	508	SQL-based
+dieonline	509	Other API
+diet	502	JDBC
+diffpen	521	Flat-file
+digdocdb	508	SQL-based
+diggall	524	MySQL
+diggclone	524	MySQL
+diggclone	509	Other API
+digger	505	PHP Pear::DB
+digimeente-mo	502	JDBC
+digioznetportal	530	Microsoft SQL Server
+digioznetportal	524	MySQL
+digiqual	525	PostgreSQL (pgsql)
+digital-nomad	508	SQL-based
+digital-recoil	524	MySQL
+digitalasylum	524	MySQL
+digitalganzfeld	502	JDBC
+digitalmarks	508	SQL-based
+digitalpali	507	XML-based
+digitalproduct	524	MySQL
+digitization	524	MySQL
+digitlib	502	JDBC
+digtedi	521	Flat-file
+diksel	525	PostgreSQL (pgsql)
+diku-kantine	524	MySQL
+dilps	524	MySQL
+diml	504	Perl DBI/DBD
+diml	524	MySQL
+dimsam	503	ADOdb
+din-phpbb	508	SQL-based
+dindexer	508	SQL-based
+dindexer	531	SQLite
+dineamix	522	Proprietary file format
+dinoresume	524	MySQL
+dionysoa	508	SQL-based
+dionysos	509	Other API
+dip	528	Firebird/InterBase
+diplo	504	Perl DBI/DBD
+diplomka	508	SQL-based
+dir2txt	531	SQLite
+dir2web	524	MySQL
+dir3d2	501	ODBC
+dirbrowse	507	XML-based
+directmysql	524	MySQL
+direfly	524	MySQL
+direfly	530	Microsoft SQL Server
+direfly	508	SQL-based
+diretorio	524	MySQL
+dirichlet	502	JDBC
+dirty-thing	507	XML-based
+disasterdb	506	Python Database API
+disasterdb	508	SQL-based
+disasterdb	533	Other network-based DBMS
+disc-osd	524	MySQL
+disc-stakka-ctl	524	MySQL
+discarchiver	508	SQL-based
+discardlet	527	IBM DB2
+discardlet	530	Microsoft SQL Server
+discardlet	524	MySQL
+discardlet	526	Oracle
+discardlet	525	PostgreSQL (pgsql)
+discardlet	529	Sybase
+discdb	508	SQL-based
+discdb	524	MySQL
+discipleman	507	XML-based
+discojet	524	MySQL
+discojet	525	PostgreSQL (pgsql)
+disconnected	524	MySQL
+discover-u	524	MySQL
+discuzcmd	524	MySQL
+diskat	509	Other API
+diskat-php	531	SQLite
+diskfreeofs	524	MySQL
+disksdb	530	Microsoft SQL Server
+disksdb	518	Microsoft Access
+distant	507	XML-based
+distclass	527	IBM DB2
+distclass	524	MySQL
+distclass	526	Oracle
+distclass	525	PostgreSQL (pgsql)
+distdrm	525	PostgreSQL (pgsql)
+distdrm	524	MySQL
+distdrm	528	Firebird/InterBase
+distdrm	520	PalmOS PDB
+distdrm	523	Other file-based DBMS
+distdrm	507	XML-based
+distinct	523	Other file-based DBMS
+distme	507	XML-based
+distme	502	JDBC
+distmmog	502	JDBC
+distphylo	531	SQLite
+distribution	515	Project is a database conversion tool
+distribution	521	Flat-file
+distribution	507	XML-based
+distribution	508	SQL-based
+distribution	502	JDBC
+distwww	508	SQL-based
+distwww	524	MySQL
+distwww	531	SQLite
+dit-cms	505	PHP Pear::DB
+dit-cms	510	Project is a database abstraction layer (API)
+dit-cms	524	MySQL
+dit-cms	525	PostgreSQL (pgsql)
+dithaka	502	JDBC
+ditto-cp	531	SQLite
+divbyzero	502	JDBC
+divbyzero	508	SQL-based
+divbyzero	527	IBM DB2
+dive-log-book	507	XML-based
+divebuddy	518	Microsoft Access
+divebuddy	523	Other file-based DBMS
+diversitycms	524	MySQL
+divesoft	530	Microsoft SQL Server
+divine	524	MySQL
+divine-conflict	522	Proprietary file format
+divinelogic	510	Project is a database abstraction layer (API)
+divinelogic	515	Project is a database conversion tool
+divinelogic	511	Project is a database management tool
+divinelogic	512	Project is a file-based DBMS (database system)
+divinelogic	513	Project is a network-based DBMS (database system)
+divinelogic	516	Project is a relational object mapper
+divinelogic	514	Project is a tool for a proprietary database file format
+divinus	528	Firebird/InterBase
+divxstore	503	ADOdb
+divxtek	521	Flat-file
+dixie	508	SQL-based
+diyddns	524	MySQL
+diydictionary	519	xBase
+djanet	508	SQL-based
+djanet	524	MySQL
+djbdnsw	521	Flat-file
+djbrain	532	HSQL
+djbrain	502	JDBC
+djcaddy	521	Flat-file
+djchess	502	JDBC
+djdoc	502	JDBC
+djia002	502	JDBC
+djp4nel	508	SQL-based
+djpanel	524	MySQL
+djscene	524	MySQL
+djuzeppe	524	MySQL
+dkcms	524	MySQL
+dkingdoms	507	XML-based
+dkingdoms	521	Flat-file
+dkingdoms	524	MySQL
+dkpleaderboard	508	SQL-based
+dkpnet	507	XML-based
+dkpnet	518	Microsoft Access
+dkpnet	530	Microsoft SQL Server
+dkpsystem	524	MySQL
+dlemods	524	MySQL
+dlinkpedia	521	Flat-file
+dliver	524	MySQL
+dlmgr	524	MySQL
+dlog	521	Flat-file
+dm-milkprod	525	PostgreSQL (pgsql)
+dmanx13-0	510	Project is a database abstraction layer (API)
+dmcenter	506	Python Database API
+dmcms	524	MySQL
+dmcrawler	530	Microsoft SQL Server
+dmcrawler	518	Microsoft Access
+dmcrawler	507	XML-based
+dml	524	MySQL
+dml-vod	524	MySQL
+dmlite	502	JDBC
+dmms	524	MySQL
+dmms	502	JDBC
+dmneo-php	524	MySQL
+dmo	508	SQL-based
+dmsirc	502	JDBC
+dmsp11	530	Microsoft SQL Server
+dmvtool	524	MySQL
+dmyreports	524	MySQL
+dnaraidtracker	502	JDBC
+dnasystem	533	Other network-based DBMS
+dnasystem	526	Oracle
+dnasystem	524	MySQL
+dnasystem	527	IBM DB2
+dnasystem	521	Flat-file
+dnasystem	502	JDBC
+dnd-adv-game	524	MySQL
+dnd-adv-game	530	Microsoft SQL Server
+dnd-adv-game	518	Microsoft Access
+dnd-adv-game	507	XML-based
+dnd-adv-game	508	SQL-based
+dndhub	524	MySQL
+dndics	524	MySQL
+dnfbb	528	Firebird/InterBase
+dnfbb	530	Microsoft SQL Server
+dnfbb	524	MySQL
+dnfbb	526	Oracle
+dnn	508	SQL-based
+dnncb	530	Microsoft SQL Server
+dnnnews	530	Microsoft SQL Server
+dnnodp	526	Oracle
+dnpb	507	XML-based
+dnport	524	MySQL
+dnptrapper	517	Berkeley/Sleepycat/Gdbm (DBM)
+dnrs	525	PostgreSQL (pgsql)
+dns-ldap	517	Berkeley/Sleepycat/Gdbm (DBM)
+dnsbalancer	524	MySQL
+dnsblproxy	517	Berkeley/Sleepycat/Gdbm (DBM)
+dnsmage	507	XML-based
+dnspentest	524	MySQL
+dnswl	521	Flat-file
+do-db	502	JDBC
+do-db	532	HSQL
+do-db	524	MySQL
+do-db	526	Oracle
+do-ngo	524	MySQL
+doaflex	502	JDBC
+doas	521	Flat-file
+dobrado	524	MySQL
+doc-builder	508	SQL-based
+doc2igc	520	PalmOS PDB
+docarc	524	MySQL
+docarc	508	SQL-based
+docarc	504	Perl DBI/DBD
+docdb	524	MySQL
+docdb	525	PostgreSQL (pgsql)
+docdb-v	524	MySQL
+docdb-v	504	Perl DBI/DBD
+docdiscovery	530	Microsoft SQL Server
+docflowsoft	530	Microsoft SQL Server
+docknow	518	Microsoft Access
+docknow	530	Microsoft SQL Server
+docknow	524	MySQL
+docme	504	Perl DBI/DBD
+docmgmtsys	521	Flat-file
+docmint	524	MySQL
+docmint	505	PHP Pear::DB
+docostor	508	SQL-based
+docsqm	503	ADOdb
+docsqm	502	JDBC
+docsqm	501	ODBC
+docsum	524	MySQL
+docsum	506	Python Database API
+doctweb	524	MySQL
+docudb	521	Flat-file
+docway	526	Oracle
+docway	530	Microsoft SQL Server
+docway	514	Project is a tool for a proprietary database file format
+docway	502	JDBC
+docwys	507	XML-based
+docyrus	507	XML-based
+dodo06	502	JDBC
+dodye	507	XML-based
+dohickey	523	Other file-based DBMS
+dojaflash	522	Proprietary file format
+dokdb	524	MySQL
+dokeos	524	MySQL
+dokeos-comp	524	MySQL
+dokinawa	521	Flat-file
+doksproject	530	Microsoft SQL Server
+doksproject	524	MySQL
+doksproject	525	PostgreSQL (pgsql)
+dokuwiki-cvs	521	Flat-file
+dokxht	507	XML-based
+dolibarr	524	MySQL
+dolmen	531	SQLite
+dolphins	524	MySQL
+dolrecon	524	MySQL
+dolserver	508	SQL-based
+domain-replacer	507	XML-based
+domainauditor	524	MySQL
+domaincreator	505	PHP Pear::DB
+domainer	524	MySQL
+domainobjects	526	Oracle
+domainobjects	524	MySQL
+domainobjects	530	Microsoft SQL Server
+domainobjects	516	Project is a relational object mapper
+domainobjects	510	Project is a database abstraction layer (API)
+domenico	516	Project is a relational object mapper
+domiclipse	509	Other API
+domiclipse	533	Other network-based DBMS
+domingo	510	Project is a database abstraction layer (API)
+domino-calendar	511	Project is a database management tool
+domino-game	524	MySQL
+domino-log4j	533	Other network-based DBMS
+dominodav	507	XML-based
+dominoes-onion	506	Python Database API
+dominotrader	508	SQL-based
+domjudge	524	MySQL
+domo	524	MySQL
+domoserveur	524	MySQL
+domsafexml	513	Project is a network-based DBMS (database system)
+don	524	MySQL
+donaldos	511	Project is a database management tool
+donation	508	SQL-based
+donations	524	MySQL
+donortrust	525	PostgreSQL (pgsql)
+dontpanic	502	JDBC
+door	524	MySQL
+door108	524	MySQL
+doorcode-mngr	524	MySQL
+dopays	524	MySQL
+dopeworld	524	MySQL
+dorm4j	502	JDBC
+dosbackup	522	Proprietary file format
+dose	525	PostgreSQL (pgsql)
+dossier	525	PostgreSQL (pgsql)
+dossier	526	Oracle
+dossier	530	Microsoft SQL Server
+dossier	502	JDBC
+dostopia	524	MySQL
+dot-net-report	507	XML-based
+dotatools	507	XML-based
+dotbase	508	SQL-based
+dotbible	507	XML-based
+dotcms	525	PostgreSQL (pgsql)
+dotcms	526	Oracle
+dotcms	524	MySQL
+dotcms	530	Microsoft SQL Server
+dotcounter	530	Microsoft SQL Server
+dotdns	530	Microsoft SQL Server
+dotforum	530	Microsoft SQL Server
+dotgallery	530	Microsoft SQL Server
+dotii	524	MySQL
+dotk-project	528	Firebird/InterBase
+dotmailler	530	Microsoft SQL Server
+dotnet3d	507	XML-based
+dotnetboard	530	Microsoft SQL Server
+dotnetcommunity	530	Microsoft SQL Server
+dotnetcrm	508	SQL-based
+dotnetdb	503	ADOdb
+dotnetdb	507	XML-based
+dotnetframework	530	Microsoft SQL Server
+dotnetip	508	SQL-based
+dotnetmail	507	XML-based
+dotnetnuke-pcw	530	Microsoft SQL Server
+dotnetpgp	507	XML-based
+dotnetsurvey	530	Microsoft SQL Server
+dotnetutils	526	Oracle
+dotnetutils	524	MySQL
+dotnetutils	530	Microsoft SQL Server
+dotnetutils	528	Firebird/InterBase
+dotnetutils	510	Project is a database abstraction layer (API)
+dotnetutils	518	Microsoft Access
+dotnetutils	509	Other API
+dotnetx	508	SQL-based
+dotnetx	510	Project is a database abstraction layer (API)
+dotnutch	508	SQL-based
+dotomega	524	MySQL
+dotomega	505	PHP Pear::DB
+dotorgnuke	508	SQL-based
+dotorgnuke	524	MySQL
+dotp2p	508	SQL-based
+dotproject	524	MySQL
+dotproject	503	ADOdb
+dotproject-cvs	524	MySQL
+dotraid	530	Microsoft SQL Server
+dotraid	524	MySQL
+dotren	502	JDBC
+dotsesame	509	Other API
+dotsesame	507	XML-based
+dotsesame	521	Flat-file
+dotsesame	524	MySQL
+dottraq	530	Microsoft SQL Server
+double-helix	507	XML-based
+double-helix	524	MySQL
+doubleback	507	XML-based
+doublesvsoop	501	ODBC
+doublesvsoop	519	xBase
+doublesvsoop	530	Microsoft SQL Server
+dougdocx	524	MySQL
+dougdocx	526	Oracle
+doverdrive	507	XML-based
+download-portal	524	MySQL
+downstream	508	SQL-based
+downstream	507	XML-based
+downtube-gui	505	PHP Pear::DB
+downtube-gui	530	Microsoft SQL Server
+doxnparts	524	MySQL
+doxumental	507	XML-based
+doxychange	507	XML-based
+doxychange	522	Proprietary file format
+doylereport	502	JDBC
+doze	513	Project is a network-based DBMS (database system)
+doze	512	Project is a file-based DBMS (database system)
+dpcms	524	MySQL
+dphrm	509	Other API
+dplab	507	XML-based
+dplayer	524	MySQL
+dpmod	524	MySQL
+dpmxl	523	Other file-based DBMS
+dpn	508	SQL-based
+dpr	525	PostgreSQL (pgsql)
+dproofreaders	524	MySQL
+dpshelper	525	PostgreSQL (pgsql)
+dqtappserver	524	MySQL
+dragonden	524	MySQL
+dragonphp	524	MySQL
+dragoon	524	MySQL
+dragster	524	MySQL
+drakcms	524	MySQL
+drakecms	503	ADOdb
+drakecms	521	Flat-file
+dreadfulhours	524	MySQL
+dreadfulhours	511	Project is a database management tool
+dreammysqlclass	524	MySQL
+drive2gether	524	MySQL
+droolsruleedit	508	SQL-based
+druid	502	JDBC
+drunkengolem	508	SQL-based
+drupal	508	SQL-based
+drupal-accel	525	PostgreSQL (pgsql)
+drupal-accel	524	MySQL
+drupal-modules	509	Other API
+drupal-netnews	508	SQL-based
+drupal-netnews	524	MySQL
+drzefko	507	XML-based
+ds-professional	524	MySQL
+ds4j	509	Other API
+dsacontrol	524	MySQL
+dsameister	524	MySQL
+dsatoolbox	523	Other file-based DBMS
+dsatoolbox	502	JDBC
+dsbapp	521	Flat-file
+dsbb	524	MySQL
+dsentity	502	JDBC
+dsentity	506	Python Database API
+dsentity	508	SQL-based
+dsfdb	508	SQL-based
+dsfdb	523	Other file-based DBMS
+dsfdb	524	MySQL
+dsfgc	507	XML-based
+dsfunddb	508	SQL-based
+dshield	524	MySQL
+dsl-br	522	Proprietary file format
+dsm	502	JDBC
+dsm	524	MySQL
+dsmmorpg	524	MySQL
+dsns	524	MySQL
+dspace	526	Oracle
+dspace	525	PostgreSQL (pgsql)
+dspatial	525	PostgreSQL (pgsql)
+dspatial	522	Proprietary file format
+dsplus	521	Flat-file
+dsr	508	SQL-based
+dstarserverapps	533	Other network-based DBMS
+dsxinf	518	Microsoft Access
+dtautotransfer	530	Microsoft SQL Server
+dtdbb	524	MySQL
+dtdbb	525	PostgreSQL (pgsql)
+dtgraph	505	PHP Pear::DB
+dtrack	524	MySQL
+dtron	524	MySQL
+duallux	507	XML-based
+dub	526	Oracle
+dubainomad	506	Python Database API
+dubainomad	518	Microsoft Access
+dubot	507	XML-based
+duckstein	525	PostgreSQL (pgsql)
+dufchat	524	MySQL
+duine	502	JDBC
+duliga	508	SQL-based
+dumas	504	Perl DBI/DBD
+dumas	508	SQL-based
+dumas	517	Berkeley/Sleepycat/Gdbm (DBM)
+dumas	526	Oracle
+dumas	525	PostgreSQL (pgsql)
+dumbocms	524	MySQL
+dump3	524	MySQL
+dump3	521	Flat-file
+dump3	502	JDBC
+dumpling	524	MySQL
+dunbot	507	XML-based
+dup-locator	522	Proprietary file format
+dupefilefinder	530	Microsoft SQL Server
+dupefilefinder	508	SQL-based
+dupefilefinder	503	ADOdb
+dupimages	522	Proprietary file format
+duplica	518	Microsoft Access
+duplica	521	Flat-file
+duplica	507	XML-based
+duplica	508	SQL-based
+duplica	501	ODBC
+duplica	502	JDBC
+durand3d	507	XML-based
+durham	532	HSQL
+duroty	525	PostgreSQL (pgsql)
+durstige-seelen	525	PostgreSQL (pgsql)
+dutchcms	524	MySQL
+dutchpipe	524	MySQL
+dvapodcast	502	JDBC
+dvb2ip	508	SQL-based
+dvb2ip	507	XML-based
+dvbgrab	503	ADOdb
+dvd-manager	524	MySQL
+dvd-register	524	MySQL
+dvdj	507	XML-based
+dvdlibraryserv	502	JDBC
+dvdlibraryserv	501	ODBC
+dvdsched	521	Flat-file
+dvdslideshow	507	XML-based
+dvrbox	507	XML-based
+dvrplus	524	MySQL
+dwc	522	Proprietary file format
+dwx-colab-tools	524	MySQL
+dxf2postgis	525	PostgreSQL (pgsql)
+dxmailer	505	PHP Pear::DB
+dxspider	521	Flat-file
+dxspider	517	Berkeley/Sleepycat/Gdbm (DBM)
+dxspider	504	Perl DBI/DBD
+dybs	507	XML-based
+dyframe	509	Other API
+dyn-admin-apps	507	XML-based
+dyn-dictionary	508	SQL-based
+dynacore	524	MySQL
+dynadesk	524	MySQL
+dynafuse	510	Project is a database abstraction layer (API)
+dynamic-apache	524	MySQL
+dynamic-engine	529	Sybase
+dynamic-engine	525	PostgreSQL (pgsql)
+dynamic-engine	526	Oracle
+dynamic-engine	524	MySQL
+dynamic-engine	530	Microsoft SQL Server
+dynamic-engine	528	Firebird/InterBase
+dynamicme	523	Other file-based DBMS
+dynamicquery	510	Project is a database abstraction layer (API)
+dynamicsql	502	JDBC
+dynamicsql	515	Project is a database conversion tool
+dynamicws	509	Other API
+dynamix	524	MySQL
+dynaplateblog	503	ADOdb
+dynaplateblog	504	Perl DBI/DBD
+dynaplateblog	524	MySQL
+dyndaemon	522	Proprietary file format
+dynocreature	524	MySQL
+dynuose	507	XML-based
+dyooz	524	MySQL
+dzacp	524	MySQL
