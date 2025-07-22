@@ -1,6 +1,5 @@
 # RGPRec
 
----
 This repository contains the implementation of RGPRec, a RAG‐enhanced GNN for personalized task recommendations in open-source communities such as SourceForge and GitHub.
 
 ## Model Overview
@@ -17,12 +16,10 @@ Constructs ego graphs for each developer to perform localized reasoning and gene
 
 ![image](RGPRec.png)
 
----
 
 ## Main Results
 ![image](Table1.png)
 
----
 
 ## Project Structure
 
@@ -35,7 +32,6 @@ RGPRec/
 └── requirements.txt     # Python dependencies
 ```
 
----
 
 ## Project Setup
 
